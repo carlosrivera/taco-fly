@@ -1,7 +1,7 @@
 import { Map as MaplibreMap, setWorkerUrl } from "maplibre-gl";
-import maplibreCspWorkerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?url";
-// serve the worker from a real URL (blob workers are blocked in some environments)
-setWorkerUrl(maplibreCspWorkerUrl);
+// serve the worker + its shared chunk unprocessed from /public (bundling it
+// dangles its internal chunk import on static hosts); relative to the page URL
+setWorkerUrl(new URL("maplibre-gl-worker.mjs", document.baseURI).href);
 import taquerias from "../data/taquerias.json" with { type: "json" };
 import {
   makeScent, createFly, step, formatClock, neighborhoodAt, CENTER, BOUNDS,

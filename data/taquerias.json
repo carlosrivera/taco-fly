@@ -1,0 +1,6032 @@
+[
+  {
+    "id": "taco_001",
+    "name": "Tacos Ricky RIcon",
+    "lat": 19.394019,
+    "lng": -99.178002,
+    "type": "fast_food",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n473196189"
+  },
+  {
+    "id": "taco_002",
+    "name": "La Mansion",
+    "lat": 19.390822,
+    "lng": -99.173121,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n473817575"
+  },
+  {
+    "id": "taco_003",
+    "name": "Vips",
+    "lat": 19.384346,
+    "lng": -99.175196,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": "07:00-22:00",
+    "osm": "n473826903"
+  },
+  {
+    "id": "taco_004",
+    "name": "Tamal Gourmet",
+    "lat": 19.356256,
+    "lng": -99.155141,
+    "type": "fast_food",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n830603050"
+  },
+  {
+    "id": "taco_005",
+    "name": "Fonda 99.99",
+    "lat": 19.375342,
+    "lng": -99.173632,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": "Tu-Sa 13:00-21:00;Su 13:00-18:00",
+    "osm": "n837157069"
+  },
+  {
+    "id": "taco_006",
+    "name": "El Fogoncito",
+    "lat": 19.36618,
+    "lng": -99.17911,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": null,
+    "osm": "n837167440"
+  },
+  {
+    "id": "taco_007",
+    "name": "Vips",
+    "lat": 19.421674,
+    "lng": -99.163374,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Mo-Su 07:00-22:00",
+    "osm": "n841724118"
+  },
+  {
+    "id": "taco_008",
+    "name": "Vips",
+    "lat": 19.407853,
+    "lng": -99.133711,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": "Su-Th 07:00-24:00; Fr-Sa 07:00-13:00",
+    "osm": "n844359663"
+  },
+  {
+    "id": "taco_009",
+    "name": "Taquería El Huequito",
+    "lat": 19.381979,
+    "lng": -99.179864,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": "Mo-Su 09:00-04:00",
+    "osm": "n994311271"
+  },
+  {
+    "id": "taco_010",
+    "name": "El Tizoncito",
+    "lat": 19.359697,
+    "lng": -99.19784,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n1112512412"
+  },
+  {
+    "id": "taco_011",
+    "name": "Toks",
+    "lat": 19.363316,
+    "lng": -99.189427,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n1112548700"
+  },
+  {
+    "id": "taco_012",
+    "name": "Toks",
+    "lat": 19.364185,
+    "lng": -99.160845,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n1127523692"
+  },
+  {
+    "id": "taco_013",
+    "name": "Casa de Pepe",
+    "lat": 19.369798,
+    "lng": -99.180513,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n1131791222"
+  },
+  {
+    "id": "taco_014",
+    "name": "El Gallito",
+    "lat": 19.403281,
+    "lng": -99.169102,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n1420541213"
+  },
+  {
+    "id": "taco_015",
+    "name": "El Charco de las Ranas",
+    "lat": 19.370767,
+    "lng": -99.185627,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n1479547061"
+  },
+  {
+    "id": "taco_016",
+    "name": "La Casa del Pavo",
+    "lat": 19.432685,
+    "lng": -99.137356,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n1677224567"
+  },
+  {
+    "id": "taco_017",
+    "name": "El Parnita",
+    "lat": 19.414082,
+    "lng": -99.162599,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n1684963266"
+  },
+  {
+    "id": "taco_018",
+    "name": "tacos el güero",
+    "lat": 19.365626,
+    "lng": -99.175742,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n1844635666"
+  },
+  {
+    "id": "taco_019",
+    "name": "Vips",
+    "lat": 19.43295,
+    "lng": -99.160157,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n1854466653"
+  },
+  {
+    "id": "taco_020",
+    "name": "Cochinita Country",
+    "lat": 19.355597,
+    "lng": -99.162581,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n1940962633"
+  },
+  {
+    "id": "taco_021",
+    "name": "Tacos Hola",
+    "lat": 19.41167,
+    "lng": -99.171498,
+    "type": "fast_food",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n2111476468"
+  },
+  {
+    "id": "taco_022",
+    "name": "Xel Ha",
+    "lat": 19.411691,
+    "lng": -99.174491,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n2112441723"
+  },
+  {
+    "id": "taco_023",
+    "name": "El Sirloin de la Roma",
+    "lat": 19.410532,
+    "lng": -99.166135,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n2112441749"
+  },
+  {
+    "id": "taco_024",
+    "name": "Orbita",
+    "lat": 19.417884,
+    "lng": -99.159776,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": "Mo,We-Su 08:00-02:00",
+    "osm": "n2112496843"
+  },
+  {
+    "id": "taco_025",
+    "name": "Vips",
+    "lat": 19.424368,
+    "lng": -99.153979,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n2133330371"
+  },
+  {
+    "id": "taco_026",
+    "name": "Taco Game",
+    "lat": 19.40574,
+    "lng": -99.177175,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n2133330374"
+  },
+  {
+    "id": "taco_027",
+    "name": "Alma de Quetzal",
+    "lat": 19.42515,
+    "lng": -99.155022,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n2133330376"
+  },
+  {
+    "id": "taco_028",
+    "name": "El Portón",
+    "lat": 19.424637,
+    "lng": -99.153974,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n2133330383"
+  },
+  {
+    "id": "taco_029",
+    "name": "Villa María",
+    "lat": 19.435512,
+    "lng": -99.192498,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n2260344119"
+  },
+  {
+    "id": "taco_030",
+    "name": "Pablo el Erizo",
+    "lat": 19.411805,
+    "lng": -99.172522,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": null,
+    "osm": "n2263372983"
+  },
+  {
+    "id": "taco_031",
+    "name": "Torteria Los Gueros",
+    "lat": 19.414433,
+    "lng": -99.157399,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n2278966290"
+  },
+  {
+    "id": "taco_032",
+    "name": "Cantina El Sella",
+    "lat": 19.414875,
+    "lng": -99.153171,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n2278973473"
+  },
+  {
+    "id": "taco_033",
+    "name": "Cocina económica \"El zarape\"",
+    "lat": 19.406385,
+    "lng": -99.156619,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n2298877518"
+  },
+  {
+    "id": "taco_034",
+    "name": "Taquería \"El Sismo\"",
+    "lat": 19.406302,
+    "lng": -99.156624,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n2298877519"
+  },
+  {
+    "id": "taco_035",
+    "name": "\"Los sabores de México\"",
+    "lat": 19.406262,
+    "lng": -99.156616,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n2298877520"
+  },
+  {
+    "id": "taco_036",
+    "name": "Mariscos \"Margarito\"",
+    "lat": 19.407216,
+    "lng": -99.156886,
+    "type": "pescado",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n2298877521"
+  },
+  {
+    "id": "taco_037",
+    "name": "Restaurante Escuela Zéfiro",
+    "lat": 19.427328,
+    "lng": -99.138078,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n2389871125"
+  },
+  {
+    "id": "taco_038",
+    "name": "Tacos Chupacabras",
+    "lat": 19.358665,
+    "lng": -99.16973,
+    "type": "fast_food",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n2401958508"
+  },
+  {
+    "id": "taco_039",
+    "name": "La Pagoda",
+    "lat": 19.434749,
+    "lng": -99.139469,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "24/7",
+    "osm": "n2418219459"
+  },
+  {
+    "id": "taco_040",
+    "name": "El Califa",
+    "lat": 19.406345,
+    "lng": -99.172516,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n2577252377"
+  },
+  {
+    "id": "taco_041",
+    "name": "Esquites Moliere",
+    "lat": 19.437934,
+    "lng": -99.201096,
+    "type": "fast_food",
+    "intensity": 0.74,
+    "openingHours": "Mo-Su 19:30-22:30",
+    "osm": "n2579841966"
+  },
+  {
+    "id": "taco_042",
+    "name": "Vips",
+    "lat": 19.453331,
+    "lng": -99.198181,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n2906227957"
+  },
+  {
+    "id": "taco_043",
+    "name": "Asados Don Abel",
+    "lat": 19.42991,
+    "lng": -99.16559,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n2995130538"
+  },
+  {
+    "id": "taco_044",
+    "name": "Vips",
+    "lat": 19.415844,
+    "lng": -99.127601,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n3033693419"
+  },
+  {
+    "id": "taco_045",
+    "name": "Vips",
+    "lat": 19.417916,
+    "lng": -99.105387,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": "Mo-Su 07:00-10:00",
+    "osm": "n3395855731"
+  },
+  {
+    "id": "taco_046",
+    "name": "Antojeria la Guille II",
+    "lat": 19.36636,
+    "lng": -99.143909,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": "08:00-15:00",
+    "osm": "n3426929564"
+  },
+  {
+    "id": "taco_047",
+    "name": "Tamales DeliRox",
+    "lat": 19.375658,
+    "lng": -99.166709,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n3443322795"
+  },
+  {
+    "id": "taco_048",
+    "name": "COBÁ FONDA YUCATECA",
+    "lat": 19.377712,
+    "lng": -99.160578,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n3443393077"
+  },
+  {
+    "id": "taco_049",
+    "name": "EL CALIFA",
+    "lat": 19.376812,
+    "lng": -99.160798,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n3443434895"
+  },
+  {
+    "id": "taco_050",
+    "name": "Tamales Flor de Lis",
+    "lat": 19.37436,
+    "lng": -99.16086,
+    "type": "fast_food",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n3443500931"
+  },
+  {
+    "id": "taco_051",
+    "name": "El Afán",
+    "lat": 19.380881,
+    "lng": -99.15818,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n3443549664"
+  },
+  {
+    "id": "taco_052",
+    "name": "Trok's torta",
+    "lat": 19.376091,
+    "lng": -99.186005,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n3443948812"
+  },
+  {
+    "id": "taco_053",
+    "name": "Humbertos",
+    "lat": 19.375569,
+    "lng": -99.17403,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n3444123713"
+  },
+  {
+    "id": "taco_054",
+    "name": "Restaurante Hanal K'U",
+    "lat": 19.387538,
+    "lng": -99.157416,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n3445448193"
+  },
+  {
+    "id": "taco_055",
+    "name": "El Tepehuani Conquistando",
+    "lat": 19.376203,
+    "lng": -99.157642,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n3484583392"
+  },
+  {
+    "id": "taco_056",
+    "name": "Las Delicias",
+    "lat": 19.409637,
+    "lng": -99.179036,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n3493638755"
+  },
+  {
+    "id": "taco_057",
+    "name": "Los Cerezos",
+    "lat": 19.409604,
+    "lng": -99.178989,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n3493638756"
+  },
+  {
+    "id": "taco_058",
+    "name": "Birria El Güero",
+    "lat": 19.448796,
+    "lng": -99.157955,
+    "type": "birria",
+    "intensity": 0.86,
+    "openingHours": null,
+    "osm": "n3495784949"
+  },
+  {
+    "id": "taco_059",
+    "name": "Sanborns Café",
+    "lat": 19.418249,
+    "lng": -99.164755,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n3536369648"
+  },
+  {
+    "id": "taco_060",
+    "name": "Bigos Tacos",
+    "lat": 19.374892,
+    "lng": -99.203384,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n3586493372"
+  },
+  {
+    "id": "taco_061",
+    "name": "Taquería El Negro",
+    "lat": 19.370746,
+    "lng": -99.185873,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n3628026415"
+  },
+  {
+    "id": "taco_062",
+    "name": "Los Girasoles",
+    "lat": 19.436037,
+    "lng": -99.138936,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n3657851876"
+  },
+  {
+    "id": "taco_063",
+    "name": "Taco Inn",
+    "lat": 19.43594,
+    "lng": -99.138958,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n3657851877"
+  },
+  {
+    "id": "taco_064",
+    "name": "El Cuatro20",
+    "lat": 19.434751,
+    "lng": -99.135964,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n3659658215"
+  },
+  {
+    "id": "taco_065",
+    "name": "Taquería Green House San Pedro",
+    "lat": 19.392148,
+    "lng": -99.183936,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n3681551997"
+  },
+  {
+    "id": "taco_066",
+    "name": "El Auténtico Pato Manila",
+    "lat": 19.40424,
+    "lng": -99.170414,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n3734813176"
+  },
+  {
+    "id": "taco_067",
+    "name": "Taquería los Güeros",
+    "lat": 19.361709,
+    "lng": -99.119783,
+    "type": "fast_food",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n3772162651"
+  },
+  {
+    "id": "taco_068",
+    "name": "Taquería Copacabanito",
+    "lat": 19.361883,
+    "lng": -99.121662,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n3772280307"
+  },
+  {
+    "id": "taco_069",
+    "name": "Taquería",
+    "lat": 19.39275,
+    "lng": -99.177642,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n3779151828"
+  },
+  {
+    "id": "taco_070",
+    "name": "Tacos JOVEN",
+    "lat": 19.40201,
+    "lng": -99.147236,
+    "type": "fast_food",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n3779247033"
+  },
+  {
+    "id": "taco_071",
+    "name": "Taqueria Narvarte",
+    "lat": 19.398432,
+    "lng": -99.152781,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n3779351839"
+  },
+  {
+    "id": "taco_072",
+    "name": "Guisados Mexicanos",
+    "lat": 19.398618,
+    "lng": -99.151802,
+    "type": "guisados",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n3779353459"
+  },
+  {
+    "id": "taco_073",
+    "name": "Rodizio Carnes de Brazil",
+    "lat": 19.392076,
+    "lng": -99.1728,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n3794521483"
+  },
+  {
+    "id": "taco_074",
+    "name": "Taquería Frank's",
+    "lat": 19.389426,
+    "lng": -99.157961,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": "09:00 - 24:00",
+    "osm": "n3797655409"
+  },
+  {
+    "id": "taco_075",
+    "name": "Super Flautas y Chelas \"La Terraza\"",
+    "lat": 19.417858,
+    "lng": -99.115768,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "10:00-19:00",
+    "osm": "n3802540608"
+  },
+  {
+    "id": "taco_076",
+    "name": "Tacos \"De aqui soy Mexico\"",
+    "lat": 19.418717,
+    "lng": -99.115522,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "08:00-18:00",
+    "osm": "n3802547156"
+  },
+  {
+    "id": "taco_077",
+    "name": "Huraches la Escondida",
+    "lat": 19.417601,
+    "lng": -99.117157,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": "09:00-22:30",
+    "osm": "n3802632434"
+  },
+  {
+    "id": "taco_078",
+    "name": "Tacos Los Gueros",
+    "lat": 19.416695,
+    "lng": -99.117322,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n3802751911"
+  },
+  {
+    "id": "taco_079",
+    "name": "Gastronómica Restimex",
+    "lat": 19.45001,
+    "lng": -99.159648,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n3802815210"
+  },
+  {
+    "id": "taco_080",
+    "name": "El Corral del Chivo",
+    "lat": 19.449102,
+    "lng": -99.157826,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": "PH,Mo-Su 10:00-21:00+",
+    "osm": "n3802858943"
+  },
+  {
+    "id": "taco_081",
+    "name": "Taquería La Rosita",
+    "lat": 19.446806,
+    "lng": -99.157271,
+    "type": "fast_food",
+    "intensity": 0.62,
+    "openingHours": "Mo-Su 10:00-22:00",
+    "osm": "n3803154628"
+  },
+  {
+    "id": "taco_082",
+    "name": "Los Helechos",
+    "lat": 19.446307,
+    "lng": -99.158089,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n3803167427"
+  },
+  {
+    "id": "taco_083",
+    "name": "La Soldadera",
+    "lat": 19.436176,
+    "lng": -99.152776,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": "Mo 13:30-24:00, Tu-Fr 12:30-01:00, Sa 13:30-23:00, Su 13:30-19:00",
+    "osm": "n3807206219"
+  },
+  {
+    "id": "taco_084",
+    "name": "Azul Condesa",
+    "lat": 19.412783,
+    "lng": -99.171579,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n3810642782"
+  },
+  {
+    "id": "taco_085",
+    "name": "Mercado Abelardo Rodriguez",
+    "lat": 19.437198,
+    "lng": -99.127463,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n3852852839"
+  },
+  {
+    "id": "taco_086",
+    "name": "La original birria de res",
+    "lat": 19.376251,
+    "lng": -99.190517,
+    "type": "birria",
+    "intensity": 0.87,
+    "openingHours": null,
+    "osm": "n3853377158"
+  },
+  {
+    "id": "taco_087",
+    "name": "Los Panchos",
+    "lat": 19.425444,
+    "lng": -99.177286,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n3872277115"
+  },
+  {
+    "id": "taco_088",
+    "name": "D Federal Cantina",
+    "lat": 19.431453,
+    "lng": -99.162138,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n3872277124"
+  },
+  {
+    "id": "taco_089",
+    "name": "Tacos Guapos",
+    "lat": 19.374982,
+    "lng": -99.151988,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4009808491"
+  },
+  {
+    "id": "taco_090",
+    "name": "Super Tortas de la Esquina",
+    "lat": 19.413011,
+    "lng": -99.190313,
+    "type": "fast_food",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n4015171185"
+  },
+  {
+    "id": "taco_091",
+    "name": "Tlacoyos Milenarios",
+    "lat": 19.409383,
+    "lng": -99.176499,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4017290113"
+  },
+  {
+    "id": "taco_092",
+    "name": "Fonda Santa Margarita",
+    "lat": 19.378129,
+    "lng": -99.17089,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Tu-Su 05:30-00:30",
+    "osm": "n4036626081"
+  },
+  {
+    "id": "taco_093",
+    "name": "Barbacoa de Santiago",
+    "lat": 19.386116,
+    "lng": -99.175758,
+    "type": "birria",
+    "intensity": 0.83,
+    "openingHours": null,
+    "osm": "n4036667147"
+  },
+  {
+    "id": "taco_094",
+    "name": "La Casa de la Yeya",
+    "lat": 19.390313,
+    "lng": -99.170412,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Lunes 08:00 - 19:00 Martes 08:00 - 19:00 Miércoles 08:00 - 19:00 Jueves 08:00 - 19:00 Viernes 08:00 - 19:00 Sábado 08:00 - 19:00 Domingo 08:00 - 19:00",
+    "osm": "n4037023390"
+  },
+  {
+    "id": "taco_095",
+    "name": "Rosticería Dorados",
+    "lat": 19.360995,
+    "lng": -99.150245,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n4039083919"
+  },
+  {
+    "id": "taco_096",
+    "name": "El Naranjito",
+    "lat": 19.375353,
+    "lng": -99.155338,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n4066889784"
+  },
+  {
+    "id": "taco_097",
+    "name": "Sonora Grill - Félix Cuevas",
+    "lat": 19.370789,
+    "lng": -99.166418,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n4067931786"
+  },
+  {
+    "id": "taco_098",
+    "name": "Sonora Taco Steak",
+    "lat": 19.401315,
+    "lng": -99.159783,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": "Mo-Sa 10:00-00:00, Su 13:00-22:00",
+    "osm": "n4070528798"
+  },
+  {
+    "id": "taco_099",
+    "name": "Toks",
+    "lat": 19.433658,
+    "lng": -99.155053,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Mo-Su 07:00-23:00",
+    "osm": "n4070625106"
+  },
+  {
+    "id": "taco_100",
+    "name": "El Birria",
+    "lat": 19.368941,
+    "lng": -99.147207,
+    "type": "birria",
+    "intensity": 0.81,
+    "openingHours": "Tu-Su 10:00-18:00",
+    "osm": "n4077392292"
+  },
+  {
+    "id": "taco_101",
+    "name": "La Tres 40",
+    "lat": 19.376957,
+    "lng": -99.160725,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n4106622755"
+  },
+  {
+    "id": "taco_102",
+    "name": "Fogoncito",
+    "lat": 19.426925,
+    "lng": -99.17758,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n4121590618"
+  },
+  {
+    "id": "taco_103",
+    "name": "Fogoncito",
+    "lat": 19.427142,
+    "lng": -99.177398,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n4121591196"
+  },
+  {
+    "id": "taco_104",
+    "name": "El Califa",
+    "lat": 19.425561,
+    "lng": -99.169462,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": "Mo-Su 12:00-03:30",
+    "osm": "n4124003217"
+  },
+  {
+    "id": "taco_105",
+    "name": "El Abanico",
+    "lat": 19.414941,
+    "lng": -99.130294,
+    "type": "carnitas",
+    "intensity": 0.72,
+    "openingHours": "10:00-18:00",
+    "osm": "n4139119001"
+  },
+  {
+    "id": "taco_106",
+    "name": "Taquería El Campeón",
+    "lat": 19.444986,
+    "lng": -99.147746,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n4156700096"
+  },
+  {
+    "id": "taco_107",
+    "name": "Taquería El Caifán",
+    "lat": 19.43499,
+    "lng": -99.147176,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n4156712502"
+  },
+  {
+    "id": "taco_108",
+    "name": "Tacos Leo",
+    "lat": 19.444115,
+    "lng": -99.147924,
+    "type": "fast_food",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n4156712503"
+  },
+  {
+    "id": "taco_109",
+    "name": "Loon Chiy",
+    "lat": 19.44814,
+    "lng": -99.146992,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n4156714189"
+  },
+  {
+    "id": "taco_110",
+    "name": "Toks",
+    "lat": 19.434443,
+    "lng": -99.143796,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n4158566790"
+  },
+  {
+    "id": "taco_111",
+    "name": "El 9 de Isabel",
+    "lat": 19.434838,
+    "lng": -99.136243,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n4160277290"
+  },
+  {
+    "id": "taco_112",
+    "name": "Las Quekas",
+    "lat": 19.402141,
+    "lng": -99.152829,
+    "type": "fast_food",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n4162393504"
+  },
+  {
+    "id": "taco_113",
+    "name": "La Casa de Toño",
+    "lat": 19.403211,
+    "lng": -99.155643,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "24/7",
+    "osm": "n4162397093"
+  },
+  {
+    "id": "taco_114",
+    "name": "Prau-Prau",
+    "lat": 19.402133,
+    "lng": -99.152928,
+    "type": "fast_food",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n4162398493"
+  },
+  {
+    "id": "taco_115",
+    "name": "Señor Taco",
+    "lat": 19.412359,
+    "lng": -99.17352,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n4164167191"
+  },
+  {
+    "id": "taco_116",
+    "name": "La Casa de la Yeya",
+    "lat": 19.414486,
+    "lng": -99.163482,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n4168566889"
+  },
+  {
+    "id": "taco_117",
+    "name": "Tacos La Super",
+    "lat": 19.362264,
+    "lng": -99.148559,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Mo-Sa 10:00-23:00; Su 10:00-17:00",
+    "osm": "n4170393126"
+  },
+  {
+    "id": "taco_118",
+    "name": "El Convite",
+    "lat": 19.362174,
+    "lng": -99.148683,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": "Tu-Sa 10:00-23:00",
+    "osm": "n4170393127"
+  },
+  {
+    "id": "taco_119",
+    "name": "Tacos El Caminero",
+    "lat": 19.434352,
+    "lng": -99.15477,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Mo-Su 12:00-24:00",
+    "osm": "n4170719892"
+  },
+  {
+    "id": "taco_120",
+    "name": "Vips",
+    "lat": 19.437997,
+    "lng": -99.113835,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n4173294191"
+  },
+  {
+    "id": "taco_121",
+    "name": "Taquería El Chaparrito",
+    "lat": 19.374868,
+    "lng": -99.152495,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n4265340744"
+  },
+  {
+    "id": "taco_122",
+    "name": "La madrina",
+    "lat": 19.436257,
+    "lng": -99.176428,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n4274350853"
+  },
+  {
+    "id": "taco_123",
+    "name": "Bisquets de Obregón",
+    "lat": 19.43567,
+    "lng": -99.173839,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n4274377566"
+  },
+  {
+    "id": "taco_124",
+    "name": "Los Cocuyos",
+    "lat": 19.430414,
+    "lng": -99.138727,
+    "type": "fast_food",
+    "intensity": 0.77,
+    "openingHours": "Mo-Su 11:00-22:00",
+    "osm": "n4278397689"
+  },
+  {
+    "id": "taco_125",
+    "name": "La Hostería de Santo Domingo",
+    "lat": 19.437993,
+    "lng": -99.135034,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": "Mo-Sa 07:00-22:00; Su 08:00-22:00",
+    "osm": "n4278412389"
+  },
+  {
+    "id": "taco_126",
+    "name": "Fork of BBQ",
+    "lat": 19.407362,
+    "lng": -99.171375,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n4279109390"
+  },
+  {
+    "id": "taco_127",
+    "name": "Toks",
+    "lat": 19.422584,
+    "lng": -99.120926,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n4279513090"
+  },
+  {
+    "id": "taco_128",
+    "name": "Tlacoyotitlan",
+    "lat": 19.448469,
+    "lng": -99.156089,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "Mo-Su 09:30-22:00",
+    "osm": "n4279609590"
+  },
+  {
+    "id": "taco_129",
+    "name": "Los Murales",
+    "lat": 19.43632,
+    "lng": -99.176522,
+    "type": "fast_food",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n4295468268"
+  },
+  {
+    "id": "taco_130",
+    "name": "El Rincón Veracruzano",
+    "lat": 19.436574,
+    "lng": -99.175779,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n4295469627"
+  },
+  {
+    "id": "taco_131",
+    "name": "Birria y tacos Santa Bárbara",
+    "lat": 19.4375,
+    "lng": -99.176916,
+    "type": "birria",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n4296645193"
+  },
+  {
+    "id": "taco_132",
+    "name": "Taquería Los Ovnis",
+    "lat": 19.433761,
+    "lng": -99.17242,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n4296656782"
+  },
+  {
+    "id": "taco_133",
+    "name": "Sala Gastronómica",
+    "lat": 19.425461,
+    "lng": -99.186256,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n4322619208"
+  },
+  {
+    "id": "taco_134",
+    "name": "Mezcalería Los Amantes",
+    "lat": 19.42681,
+    "lng": -99.196955,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n4326358306"
+  },
+  {
+    "id": "taco_135",
+    "name": "El Rey del Pavo",
+    "lat": 19.432779,
+    "lng": -99.135189,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Mo-Sa 11:00-18:45",
+    "osm": "n4332836491"
+  },
+  {
+    "id": "taco_136",
+    "name": "Tortería La Texcocana",
+    "lat": 19.423017,
+    "lng": -99.171857,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4338183695"
+  },
+  {
+    "id": "taco_137",
+    "name": "La Casa Del Pastor",
+    "lat": 19.431877,
+    "lng": -99.196542,
+    "type": "pastor",
+    "intensity": 0.8,
+    "openingHours": null,
+    "osm": "n4339329095"
+  },
+  {
+    "id": "taco_138",
+    "name": "Vips",
+    "lat": 19.433415,
+    "lng": -99.136565,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n4345144789"
+  },
+  {
+    "id": "taco_139",
+    "name": "Vips",
+    "lat": 19.433498,
+    "lng": -99.135876,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4345144989"
+  },
+  {
+    "id": "taco_140",
+    "name": "Taquería La Michoacana",
+    "lat": 19.360018,
+    "lng": -99.141798,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n4367124489"
+  },
+  {
+    "id": "taco_141",
+    "name": "San Francisco",
+    "lat": 19.436526,
+    "lng": -99.130638,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": "Mo-Su 09:00-18:00",
+    "osm": "n4376884091"
+  },
+  {
+    "id": "taco_142",
+    "name": "La Vaca Loca",
+    "lat": 19.378604,
+    "lng": -99.12844,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n4379967689"
+  },
+  {
+    "id": "taco_143",
+    "name": "Los Especiales",
+    "lat": 19.433128,
+    "lng": -99.134583,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4396992793"
+  },
+  {
+    "id": "taco_144",
+    "name": "Tacos de Canasta48",
+    "lat": 19.430609,
+    "lng": -99.144606,
+    "type": "canasta",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n4398372690"
+  },
+  {
+    "id": "taco_145",
+    "name": "Tizoncito Tacos",
+    "lat": 19.411926,
+    "lng": -99.173686,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n4417075789"
+  },
+  {
+    "id": "taco_146",
+    "name": "Yuban (bar/restaurant)",
+    "lat": 19.418882,
+    "lng": -99.164133,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n4419675189"
+  },
+  {
+    "id": "taco_147",
+    "name": "Frutos Prohibidos",
+    "lat": 19.379257,
+    "lng": -99.160963,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n4456436489"
+  },
+  {
+    "id": "taco_148",
+    "name": "Salón España",
+    "lat": 19.436491,
+    "lng": -99.131736,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": "Mo-Sa 11:00-23:55; Su 11:00-19:00",
+    "osm": "n4474361389"
+  },
+  {
+    "id": "taco_149",
+    "name": "Toks",
+    "lat": 19.384551,
+    "lng": -99.188198,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n4480240990"
+  },
+  {
+    "id": "taco_150",
+    "name": "Toks",
+    "lat": 19.423607,
+    "lng": -99.139663,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n4482353192"
+  },
+  {
+    "id": "taco_151",
+    "name": "Toks",
+    "lat": 19.366788,
+    "lng": -99.136719,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n4488997991"
+  },
+  {
+    "id": "taco_152",
+    "name": "Toks",
+    "lat": 19.403067,
+    "lng": -99.154573,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n4489009190"
+  },
+  {
+    "id": "taco_153",
+    "name": "Toks",
+    "lat": 19.4386,
+    "lng": -99.151058,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n4489080292"
+  },
+  {
+    "id": "taco_154",
+    "name": "Toks",
+    "lat": 19.440326,
+    "lng": -99.155919,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n4489119991"
+  },
+  {
+    "id": "taco_155",
+    "name": "Toks",
+    "lat": 19.382603,
+    "lng": -99.140062,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n4491058190"
+  },
+  {
+    "id": "taco_156",
+    "name": "Taquería El Turix",
+    "lat": 19.431311,
+    "lng": -99.201318,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4523457691"
+  },
+  {
+    "id": "taco_157",
+    "name": "Azul Histórico",
+    "lat": 19.432889,
+    "lng": -99.136196,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n4524776489"
+  },
+  {
+    "id": "taco_158",
+    "name": "Himawari",
+    "lat": 19.414892,
+    "lng": -99.158841,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n4542316790"
+  },
+  {
+    "id": "taco_159",
+    "name": "Taquería Arandas",
+    "lat": 19.4343,
+    "lng": -99.135778,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n4567911691"
+  },
+  {
+    "id": "taco_160",
+    "name": "Vegamo MX",
+    "lat": 19.431704,
+    "lng": -99.146655,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": "Mo-Su 10:00-10:00",
+    "osm": "n4574271691"
+  },
+  {
+    "id": "taco_161",
+    "name": "Cafebrería El Péndulo",
+    "lat": 19.430454,
+    "lng": -99.195808,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": "Mo-Sa 08:00-23:00; Su 09:00-22:00",
+    "osm": "n4577349463"
+  },
+  {
+    "id": "taco_162",
+    "name": "Taqueria EI Progreso",
+    "lat": 19.434005,
+    "lng": -99.156242,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Mo-Sa 08:00-20:00",
+    "osm": "n4583855289"
+  },
+  {
+    "id": "taco_163",
+    "name": "El Cardenal",
+    "lat": 19.433698,
+    "lng": -99.135268,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4594598745"
+  },
+  {
+    "id": "taco_164",
+    "name": "Tacos Alvaro Obregon",
+    "lat": 19.418289,
+    "lng": -99.15884,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n4596002295"
+  },
+  {
+    "id": "taco_165",
+    "name": "Taquería Tlacoteotl",
+    "lat": 19.430575,
+    "lng": -99.196986,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n4640535042"
+  },
+  {
+    "id": "taco_166",
+    "name": "El Bajío",
+    "lat": 19.390172,
+    "lng": -99.173414,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Mo-We 08:00-21:00; Th-Sa 08:00-22:00; Su 09:00-21:00",
+    "osm": "n4675558750"
+  },
+  {
+    "id": "taco_167",
+    "name": "Tortería y Taquería",
+    "lat": 19.428289,
+    "lng": -99.134835,
+    "type": "fast_food",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n4678288890"
+  },
+  {
+    "id": "taco_168",
+    "name": "El Kuinito",
+    "lat": 19.447041,
+    "lng": -99.194174,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Mo-Su 10:00-17:00",
+    "osm": "n4725979892"
+  },
+  {
+    "id": "taco_169",
+    "name": "Tacos Tony",
+    "lat": 19.388918,
+    "lng": -99.153007,
+    "type": "fast_food",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n4728163280"
+  },
+  {
+    "id": "taco_170",
+    "name": "Tacos Manolo",
+    "lat": 19.390708,
+    "lng": -99.156948,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n4728178231"
+  },
+  {
+    "id": "taco_171",
+    "name": "Centrina",
+    "lat": 19.429841,
+    "lng": -99.143922,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": "Mo-Fr 09:00-17:00; Sa-Su 11:00-19:00",
+    "osm": "n4734730681"
+  },
+  {
+    "id": "taco_172",
+    "name": "El Pialadero de Guadalajara",
+    "lat": 19.421634,
+    "lng": -99.174211,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": "Mo-Fr 10:00-21:00; Sa-Su 09:00-21:00",
+    "osm": "n4760810361"
+  },
+  {
+    "id": "taco_173",
+    "name": "Tlaquepaque Taquería",
+    "lat": 19.432658,
+    "lng": -99.141414,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n4766427045"
+  },
+  {
+    "id": "taco_174",
+    "name": "La Covacha",
+    "lat": 19.427692,
+    "lng": -99.136271,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n4774270036"
+  },
+  {
+    "id": "taco_175",
+    "name": "Las Girafas y la Mula",
+    "lat": 19.450539,
+    "lng": -99.155852,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "PH,Mo-Su 10:00-20:00+",
+    "osm": "n4774270037"
+  },
+  {
+    "id": "taco_176",
+    "name": "Maare",
+    "lat": 19.448821,
+    "lng": -99.156168,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n4829512616"
+  },
+  {
+    "id": "taco_177",
+    "name": "Oaxaca Aquí",
+    "lat": 19.44964,
+    "lng": -99.155973,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n4829532642"
+  },
+  {
+    "id": "taco_178",
+    "name": "Vips",
+    "lat": 19.444158,
+    "lng": -99.153767,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n4831641536"
+  },
+  {
+    "id": "taco_179",
+    "name": "Que sería de mí",
+    "lat": 19.408386,
+    "lng": -99.175846,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n4838895327"
+  },
+  {
+    "id": "taco_180",
+    "name": "Govinda Ram Restaurante Vegetariano",
+    "lat": 19.427997,
+    "lng": -99.1438,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n4856648621"
+  },
+  {
+    "id": "taco_181",
+    "name": "Vips",
+    "lat": 19.439718,
+    "lng": -99.156138,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n4878634618"
+  },
+  {
+    "id": "taco_182",
+    "name": "Las Ramonas Antojitos Mexicanos",
+    "lat": 19.452397,
+    "lng": -99.157169,
+    "type": "fast_food",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n4878861191"
+  },
+  {
+    "id": "taco_183",
+    "name": "Fralugio distribuidor electrónica",
+    "lat": 19.406658,
+    "lng": -99.157022,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": "Mo-Fr 10:30-15:00",
+    "osm": "n4937318024"
+  },
+  {
+    "id": "taco_184",
+    "name": "La Piedra Cantina Artesanal",
+    "lat": 19.431691,
+    "lng": -99.193639,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n5002388640"
+  },
+  {
+    "id": "taco_185",
+    "name": "Tamales",
+    "lat": 19.429345,
+    "lng": -99.191633,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5002411254"
+  },
+  {
+    "id": "taco_186",
+    "name": "El Vilsito",
+    "lat": 19.389308,
+    "lng": -99.152757,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5010308177"
+  },
+  {
+    "id": "taco_187",
+    "name": "El Bajío",
+    "lat": 19.427388,
+    "lng": -99.196312,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": "Mo-Sa 08:00-23:00; Su 09:00-22:00",
+    "osm": "n5010472977"
+  },
+  {
+    "id": "taco_188",
+    "name": "Rincón Maya",
+    "lat": 19.367093,
+    "lng": -99.137434,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": "Mo-Su 11:00-19:00",
+    "osm": "n5017039069"
+  },
+  {
+    "id": "taco_189",
+    "name": "Sushi Hashi",
+    "lat": 19.36709,
+    "lng": -99.13738,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n5017187823"
+  },
+  {
+    "id": "taco_190",
+    "name": "Taqueria los Pericos",
+    "lat": 19.38966,
+    "lng": -99.159607,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": "Mo-Su 12:00-23:00",
+    "osm": "n5017193182"
+  },
+  {
+    "id": "taco_191",
+    "name": "BARBACOA DON JOSÉ",
+    "lat": 19.38889,
+    "lng": -99.201766,
+    "type": "birria",
+    "intensity": 0.8,
+    "openingHours": null,
+    "osm": "n5018973810"
+  },
+  {
+    "id": "taco_192",
+    "name": "TAQUERIA EL PAISA",
+    "lat": 19.388425,
+    "lng": -99.201798,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n5018974966"
+  },
+  {
+    "id": "taco_193",
+    "name": "Taco fish",
+    "lat": 19.382455,
+    "lng": -99.177344,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n5029711821"
+  },
+  {
+    "id": "taco_194",
+    "name": "La Oaxaqueña",
+    "lat": 19.372183,
+    "lng": -99.142233,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5055255660"
+  },
+  {
+    "id": "taco_195",
+    "name": "El Pueblito",
+    "lat": 19.372225,
+    "lng": -99.14152,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n5055261892"
+  },
+  {
+    "id": "taco_196",
+    "name": "Tu Taco De Cabecera",
+    "lat": 19.425137,
+    "lng": -99.174777,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n5070395821"
+  },
+  {
+    "id": "taco_197",
+    "name": "Toks",
+    "lat": 19.439526,
+    "lng": -99.200379,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n5157044224"
+  },
+  {
+    "id": "taco_198",
+    "name": "Los tacos",
+    "lat": 19.429777,
+    "lng": -99.131852,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n5168260321"
+  },
+  {
+    "id": "taco_199",
+    "name": "El Pescadito",
+    "lat": 19.414313,
+    "lng": -99.173476,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5172329822"
+  },
+  {
+    "id": "taco_200",
+    "name": "La Capital",
+    "lat": 19.409532,
+    "lng": -99.172838,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "Mo-We 13:30-00:00; Th-Sa 13:30-01:00; Su 13:30-19:00",
+    "osm": "n5210525923"
+  },
+  {
+    "id": "taco_201",
+    "name": "La Taberna de Miguel",
+    "lat": 19.431499,
+    "lng": -99.181854,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n5245020939"
+  },
+  {
+    "id": "taco_202",
+    "name": "Taqueria Don Eraki",
+    "lat": 19.393424,
+    "lng": -99.153152,
+    "type": "fast_food",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n5262939121"
+  },
+  {
+    "id": "taco_203",
+    "name": "Chirindonguería",
+    "lat": 19.433366,
+    "lng": -99.149283,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n5274338621"
+  },
+  {
+    "id": "taco_204",
+    "name": "Taquería Los Originales",
+    "lat": 19.365907,
+    "lng": -99.196658,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n5329442027"
+  },
+  {
+    "id": "taco_205",
+    "name": "For Siempre Vegana Taqueria",
+    "lat": 19.411597,
+    "lng": -99.166099,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": "Mo-Sa 13:00-00:00",
+    "osm": "n5329509224"
+  },
+  {
+    "id": "taco_206",
+    "name": "Marygold",
+    "lat": 19.412934,
+    "lng": -99.183689,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n5349346821"
+  },
+  {
+    "id": "taco_207",
+    "name": "Gold Taco",
+    "lat": 19.384833,
+    "lng": -99.154015,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n5349365822"
+  },
+  {
+    "id": "taco_208",
+    "name": "Quintonil",
+    "lat": 19.430818,
+    "lng": -99.191834,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": "Mo-Sa13:00- 16:00, Mo- Sa18:30 - 22:00",
+    "osm": "n5431225256"
+  },
+  {
+    "id": "taco_209",
+    "name": "Tortas al fuego",
+    "lat": 19.412698,
+    "lng": -99.166804,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": "24/7",
+    "osm": "n5436614724"
+  },
+  {
+    "id": "taco_210",
+    "name": "La Casa de Las Enchiladas (Lago Alberto)",
+    "lat": 19.438751,
+    "lng": -99.179119,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": "Mo-Su 08:00-19:00",
+    "osm": "n5470111721"
+  },
+  {
+    "id": "taco_211",
+    "name": "La Casa de Toño",
+    "lat": 19.439882,
+    "lng": -99.177876,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n5470111821"
+  },
+  {
+    "id": "taco_212",
+    "name": "Taqueria",
+    "lat": 19.427798,
+    "lng": -99.135519,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n5509017102"
+  },
+  {
+    "id": "taco_213",
+    "name": "Tacos El Guero",
+    "lat": 19.42751,
+    "lng": -99.134651,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n5509017234"
+  },
+  {
+    "id": "taco_214",
+    "name": "Tacos La Aguilita",
+    "lat": 19.427533,
+    "lng": -99.127925,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n5509017269"
+  },
+  {
+    "id": "taco_215",
+    "name": "Tacos Los Paisas",
+    "lat": 19.426936,
+    "lng": -99.128804,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": "Mo-Su 08:00-00:00",
+    "osm": "n5509017276"
+  },
+  {
+    "id": "taco_216",
+    "name": "Taqueria Regina",
+    "lat": 19.427695,
+    "lng": -99.134711,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n5509017446"
+  },
+  {
+    "id": "taco_217",
+    "name": "Tacos Don Alex",
+    "lat": 19.439384,
+    "lng": -99.159569,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5543496029"
+  },
+  {
+    "id": "taco_218",
+    "name": "Vips",
+    "lat": 19.39916,
+    "lng": -99.15602,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n5581302822"
+  },
+  {
+    "id": "taco_219",
+    "name": "La Cebolla Morada",
+    "lat": 19.404213,
+    "lng": -99.17159,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "Mo-Su 12:00-17:00",
+    "osm": "n5596022485"
+  },
+  {
+    "id": "taco_220",
+    "name": "La Federal",
+    "lat": 19.392729,
+    "lng": -99.173249,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": "Mo-Su 10:00-18:00",
+    "osm": "n5613976525"
+  },
+  {
+    "id": "taco_221",
+    "name": "El Califa Taqueria",
+    "lat": 19.417494,
+    "lng": -99.162581,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n5670550822"
+  },
+  {
+    "id": "taco_222",
+    "name": "TAMALES COYOACÁN",
+    "lat": 19.387324,
+    "lng": -99.135546,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Mo-Fr 08:30-20:00",
+    "osm": "n5686316922"
+  },
+  {
+    "id": "taco_223",
+    "name": "Quekas Factory Narvarte",
+    "lat": 19.39006,
+    "lng": -99.149957,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n5773861453"
+  },
+  {
+    "id": "taco_224",
+    "name": "Locales de Comida Corrida",
+    "lat": 19.42039,
+    "lng": -99.188181,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n5775688499"
+  },
+  {
+    "id": "taco_225",
+    "name": "Nahnu -Tacos Árabes",
+    "lat": 19.430787,
+    "lng": -99.196971,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n5794657204"
+  },
+  {
+    "id": "taco_226",
+    "name": "Toks",
+    "lat": 19.368965,
+    "lng": -99.15662,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n5834916618"
+  },
+  {
+    "id": "taco_227",
+    "name": "La Costilla",
+    "lat": 19.391486,
+    "lng": -99.150569,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5834951260"
+  },
+  {
+    "id": "taco_228",
+    "name": "Villa Casona",
+    "lat": 19.3908,
+    "lng": -99.15505,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n5835130297"
+  },
+  {
+    "id": "taco_229",
+    "name": "Toks",
+    "lat": 19.395224,
+    "lng": -99.155721,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n5835317139"
+  },
+  {
+    "id": "taco_230",
+    "name": "Vips",
+    "lat": 19.430466,
+    "lng": -99.137387,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n5842139792"
+  },
+  {
+    "id": "taco_231",
+    "name": "Hacienda San Lázaro",
+    "lat": 19.432416,
+    "lng": -99.118674,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n5842579952"
+  },
+  {
+    "id": "taco_232",
+    "name": "Taquería Selene",
+    "lat": 19.427063,
+    "lng": -99.177377,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5849968462"
+  },
+  {
+    "id": "taco_233",
+    "name": "Toks",
+    "lat": 19.397104,
+    "lng": -99.137066,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n5852302064"
+  },
+  {
+    "id": "taco_234",
+    "name": "mejores tacos",
+    "lat": 19.361604,
+    "lng": -99.119896,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5872594185"
+  },
+  {
+    "id": "taco_235",
+    "name": "La Gatorta",
+    "lat": 19.422199,
+    "lng": -99.163109,
+    "type": "fast_food",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n5921743585"
+  },
+  {
+    "id": "taco_236",
+    "name": "Tortas Gigantes",
+    "lat": 19.370297,
+    "lng": -99.155256,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n5929295934"
+  },
+  {
+    "id": "taco_237",
+    "name": "Por Siempre Vegana Taquería",
+    "lat": 19.411173,
+    "lng": -99.163861,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": "Mo-Sa 10:00-23:00; Su 10:00-21:00",
+    "osm": "n5940928885"
+  },
+  {
+    "id": "taco_238",
+    "name": "Tacos de Guisado",
+    "lat": 19.370172,
+    "lng": -99.156458,
+    "type": "guisados",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n5943300984"
+  },
+  {
+    "id": "taco_239",
+    "name": "El Tizoncito",
+    "lat": 19.427198,
+    "lng": -99.16239,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Su-Th 12:00-02:30, Fr,Sa 12:00-04:30",
+    "osm": "n5959889385"
+  },
+  {
+    "id": "taco_240",
+    "name": "La Pitahaya",
+    "lat": 19.415049,
+    "lng": -99.158752,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": "Mo-Su 09:00-22:00",
+    "osm": "n5984252685"
+  },
+  {
+    "id": "taco_241",
+    "name": "Doña Limpia Sopes",
+    "lat": 19.395489,
+    "lng": -99.19487,
+    "type": "fast_food",
+    "intensity": 0.78,
+    "openingHours": "Mo-Fr 09:00-18:00",
+    "osm": "n5987489285"
+  },
+  {
+    "id": "taco_242",
+    "name": "u.to.pia",
+    "lat": 19.414889,
+    "lng": -99.174834,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": "Mo-Sa 13:00-23:00; Su 13:00-19:00",
+    "osm": "n5994478387"
+  },
+  {
+    "id": "taco_243",
+    "name": "Malportaco",
+    "lat": 19.399525,
+    "lng": -99.149636,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": "Mo-Th 05:00-23:00; Fr,Sa 05:00-24:00",
+    "osm": "n6049284885"
+  },
+  {
+    "id": "taco_244",
+    "name": "Guisando Ando",
+    "lat": 19.404665,
+    "lng": -99.196839,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Mo-Fr 10:00-17:00",
+    "osm": "n6157354721"
+  },
+  {
+    "id": "taco_245",
+    "name": "La Tizona (mariscos de carreta)",
+    "lat": 19.418833,
+    "lng": -99.16962,
+    "type": "pescado",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n6202685786"
+  },
+  {
+    "id": "taco_246",
+    "name": "Comida económica \"Rossy\"",
+    "lat": 19.403976,
+    "lng": -99.196966,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n6265198459"
+  },
+  {
+    "id": "taco_247",
+    "name": "Cocina \"de Mamá\"",
+    "lat": 19.404159,
+    "lng": -99.19698,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n6265198461"
+  },
+  {
+    "id": "taco_248",
+    "name": "El Mesón de Belosario 38 Traditional comida Mexicana",
+    "lat": 19.438239,
+    "lng": -99.136898,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n6282116985"
+  },
+  {
+    "id": "taco_249",
+    "name": "Taquería La Negra",
+    "lat": 19.418993,
+    "lng": -99.16992,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Mo-Su 12:00-22:00",
+    "osm": "n6320866685"
+  },
+  {
+    "id": "taco_250",
+    "name": "La Casa de Toño",
+    "lat": 19.430306,
+    "lng": -99.138763,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n6357514929"
+  },
+  {
+    "id": "taco_251",
+    "name": "Pane en Vía",
+    "lat": 19.374339,
+    "lng": -99.179051,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n6358978598"
+  },
+  {
+    "id": "taco_252",
+    "name": "Elkar",
+    "lat": 19.427719,
+    "lng": -99.13494,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n6366212885"
+  },
+  {
+    "id": "taco_253",
+    "name": "Taco Game",
+    "lat": 19.409875,
+    "lng": -99.16204,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n6397219114"
+  },
+  {
+    "id": "taco_254",
+    "name": "Carnitas carrubis bufet",
+    "lat": 19.379814,
+    "lng": -99.11873,
+    "type": "carnitas",
+    "intensity": 0.8,
+    "openingHours": null,
+    "osm": "n6471383385"
+  },
+  {
+    "id": "taco_255",
+    "name": "Tortas La Española",
+    "lat": 19.437842,
+    "lng": -99.195356,
+    "type": "fast_food",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n6511566785"
+  },
+  {
+    "id": "taco_256",
+    "name": "Taquería",
+    "lat": 19.392074,
+    "lng": -99.18394,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n6625252870"
+  },
+  {
+    "id": "taco_257",
+    "name": "Carmelo",
+    "lat": 19.431681,
+    "lng": -99.183556,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n6651604155"
+  },
+  {
+    "id": "taco_258",
+    "name": "La casa de todos",
+    "lat": 19.433343,
+    "lng": -99.142121,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n6653107785"
+  },
+  {
+    "id": "taco_259",
+    "name": "Tacos el Chaparrito",
+    "lat": 19.401708,
+    "lng": -99.201953,
+    "type": "fast_food",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n6710462649"
+  },
+  {
+    "id": "taco_260",
+    "name": "Fonda Mi Lupita",
+    "lat": 19.413639,
+    "lng": -99.179824,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n6717462585"
+  },
+  {
+    "id": "taco_261",
+    "name": "Taco Naco",
+    "lat": 19.416669,
+    "lng": -99.178818,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n6777253886"
+  },
+  {
+    "id": "taco_262",
+    "name": "Terraza Cha Cha Chá",
+    "lat": 19.436145,
+    "lng": -99.152697,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Mo-Sa 13:00-24:00, Su 10:00-19:00",
+    "osm": "n6786946385"
+  },
+  {
+    "id": "taco_263",
+    "name": "Cafetería Sanborns",
+    "lat": 19.434573,
+    "lng": -99.140152,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": "Mo-Su 07:00-01:00",
+    "osm": "n6854523286"
+  },
+  {
+    "id": "taco_264",
+    "name": "Taquería Tlaquepaque",
+    "lat": 19.434539,
+    "lng": -99.136009,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n6902911385"
+  },
+  {
+    "id": "taco_265",
+    "name": "La Periquita",
+    "lat": 19.435227,
+    "lng": -99.16321,
+    "type": "fast_food",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n6906410467"
+  },
+  {
+    "id": "taco_266",
+    "name": "Taquearte",
+    "lat": 19.359756,
+    "lng": -99.171483,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n7017469950"
+  },
+  {
+    "id": "taco_267",
+    "name": "Taqueria el Jarocho",
+    "lat": 19.411234,
+    "lng": -99.166007,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n7030465486"
+  },
+  {
+    "id": "taco_268",
+    "name": "Taqueria El Greco",
+    "lat": 19.411406,
+    "lng": -99.172142,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": "Mo-We 14:00-22:30; Th-Sa 14:00-04:00",
+    "osm": "n7079137685"
+  },
+  {
+    "id": "taco_269",
+    "name": "Carnitas El Capote",
+    "lat": 19.423743,
+    "lng": -99.164005,
+    "type": "carnitas",
+    "intensity": 0.86,
+    "openingHours": "Mo-Su 09:00-19:00",
+    "osm": "n7080835585"
+  },
+  {
+    "id": "taco_270",
+    "name": "Antojería",
+    "lat": 19.434359,
+    "lng": -99.143632,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n7093679855"
+  },
+  {
+    "id": "taco_271",
+    "name": "Vips",
+    "lat": 19.439341,
+    "lng": -99.177408,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n7137805861"
+  },
+  {
+    "id": "taco_272",
+    "name": "Comixcal",
+    "lat": 19.448473,
+    "lng": -99.156393,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n7140188685"
+  },
+  {
+    "id": "taco_273",
+    "name": "Pozolería \"Flor de Maíz\"",
+    "lat": 19.365959,
+    "lng": -99.122098,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n7151509227"
+  },
+  {
+    "id": "taco_274",
+    "name": "Mexitaco",
+    "lat": 19.431291,
+    "lng": -99.16255,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Mo-Sa 10:00-18:00",
+    "osm": "n7201821510"
+  },
+  {
+    "id": "taco_275",
+    "name": "Taco Naco",
+    "lat": 19.432982,
+    "lng": -99.164305,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n7202233823"
+  },
+  {
+    "id": "taco_276",
+    "name": "Cocina central 1812",
+    "lat": 19.432363,
+    "lng": -99.13439,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n7213002987"
+  },
+  {
+    "id": "taco_277",
+    "name": "Taco Naco",
+    "lat": 19.408504,
+    "lng": -99.16794,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n7229356485"
+  },
+  {
+    "id": "taco_278",
+    "name": "Atardecer en la Condesa",
+    "lat": 19.407739,
+    "lng": -99.178199,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n7231662347"
+  },
+  {
+    "id": "taco_279",
+    "name": "Tacos Don Fidel",
+    "lat": 19.368224,
+    "lng": -99.143807,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n7249045170"
+  },
+  {
+    "id": "taco_280",
+    "name": "Los Machetes de Amparito",
+    "lat": 19.448528,
+    "lng": -99.145176,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n7275656285"
+  },
+  {
+    "id": "taco_281",
+    "name": "Taqueria Los gueros",
+    "lat": 19.36138,
+    "lng": -99.117342,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n7609542921"
+  },
+  {
+    "id": "taco_282",
+    "name": "Taquería La Lupita Ayuuk",
+    "lat": 19.373515,
+    "lng": -99.195485,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "Mo-Th 14:00-02:00; Fr-Su 14:00-03:30",
+    "osm": "n7642384880"
+  },
+  {
+    "id": "taco_283",
+    "name": "Potzollcalli",
+    "lat": 19.387671,
+    "lng": -99.177314,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": "Mo-Su 07:00-23:00",
+    "osm": "n7649875994"
+  },
+  {
+    "id": "taco_284",
+    "name": "Los sopes",
+    "lat": 19.369389,
+    "lng": -99.136976,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n7659506285"
+  },
+  {
+    "id": "taco_285",
+    "name": "Tacos Gus",
+    "lat": 19.443008,
+    "lng": -99.150807,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": "Mo-Fr 08:00-17:30; Sa 08:00-14:00",
+    "osm": "n7715974486"
+  },
+  {
+    "id": "taco_286",
+    "name": "Pastora",
+    "lat": 19.428774,
+    "lng": -99.168186,
+    "type": "pastor",
+    "intensity": 0.87,
+    "openingHours": null,
+    "osm": "n7766408861"
+  },
+  {
+    "id": "taco_287",
+    "name": "Bar Cantina La Reforma",
+    "lat": 19.430676,
+    "lng": -99.143189,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n7924604913"
+  },
+  {
+    "id": "taco_288",
+    "name": "tacos cochinada y porquería",
+    "lat": 19.384219,
+    "lng": -99.152315,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": "Mo-Su 08:00-04:00",
+    "osm": "n7936540185"
+  },
+  {
+    "id": "taco_289",
+    "name": "La Casa de Las Enchiladas (Lerma)",
+    "lat": 19.42666,
+    "lng": -99.173081,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": "Mo-Su 08:00-19:00",
+    "osm": "n7984727740"
+  },
+  {
+    "id": "taco_290",
+    "name": "La Casa de Las Enchiladas (Bajío)",
+    "lat": 19.402224,
+    "lng": -99.170535,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": "Mo-Su 08:00-19:00",
+    "osm": "n7984727741"
+  },
+  {
+    "id": "taco_291",
+    "name": "Vips",
+    "lat": 19.398676,
+    "lng": -99.137595,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "07:00-22:00",
+    "osm": "n7995526009"
+  },
+  {
+    "id": "taco_292",
+    "name": "Chito's",
+    "lat": 19.417656,
+    "lng": -99.170446,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n8023474614"
+  },
+  {
+    "id": "taco_293",
+    "name": "Los Tacos",
+    "lat": 19.430222,
+    "lng": -99.132379,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n8041155085"
+  },
+  {
+    "id": "taco_294",
+    "name": "Miercoles de Pechugon",
+    "lat": 19.409523,
+    "lng": -99.162074,
+    "type": "fast_food",
+    "intensity": 0.65,
+    "openingHours": "Mo-Su 11:00-18:00",
+    "osm": "n8164047918"
+  },
+  {
+    "id": "taco_295",
+    "name": "Tacos",
+    "lat": 19.425897,
+    "lng": -99.126745,
+    "type": "fast_food",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n8235887723"
+  },
+  {
+    "id": "taco_296",
+    "name": "Carnitas Parque Luna",
+    "lat": 19.422757,
+    "lng": -99.171832,
+    "type": "carnitas",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n8238300517"
+  },
+  {
+    "id": "taco_297",
+    "name": "Tacos Truck",
+    "lat": 19.40864,
+    "lng": -99.17637,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n8238643517"
+  },
+  {
+    "id": "taco_298",
+    "name": "Maria La Pescadora",
+    "lat": 19.417411,
+    "lng": -99.156925,
+    "type": "pescado",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n8284372109"
+  },
+  {
+    "id": "taco_299",
+    "name": "Carnitas Rincón Tarasco",
+    "lat": 19.400828,
+    "lng": -99.178757,
+    "type": "carnitas",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n8356401792"
+  },
+  {
+    "id": "taco_300",
+    "name": "Taquería El Cuñado",
+    "lat": 19.449574,
+    "lng": -99.114817,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": "Mo-Su 17:00-01:00",
+    "osm": "n8481369047"
+  },
+  {
+    "id": "taco_301",
+    "name": "El Carnal Restaurante",
+    "lat": 19.449639,
+    "lng": -99.113381,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n8483843815"
+  },
+  {
+    "id": "taco_302",
+    "name": "Taquería El Carnal 1",
+    "lat": 19.449441,
+    "lng": -99.112283,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": "Mo-Sa 07:00-15:00",
+    "osm": "n8483893231"
+  },
+  {
+    "id": "taco_303",
+    "name": "Casa González Exquisita Pancita",
+    "lat": 19.376287,
+    "lng": -99.190262,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": "Sa-Su 13:00-18:30,13:00-18:30,09:00-17:00; PH closed",
+    "osm": "n8616316222"
+  },
+  {
+    "id": "taco_304",
+    "name": "Vips",
+    "lat": 19.43183,
+    "lng": -99.134948,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": "Mo-Su 08:00-20:00",
+    "osm": "n8663618918"
+  },
+  {
+    "id": "taco_305",
+    "name": "Vips",
+    "lat": 19.433758,
+    "lng": -99.1378,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n8665030241"
+  },
+  {
+    "id": "taco_306",
+    "name": "Sanborns",
+    "lat": 19.431081,
+    "lng": -99.135255,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "Mo-Su 08:00-19:00",
+    "osm": "n8677141617"
+  },
+  {
+    "id": "taco_307",
+    "name": "La Parroquia de Veracruz",
+    "lat": 19.431327,
+    "lng": -99.135393,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "Mo-Fr 07:00-22:00; Sa 08:00-23:00; Su 08:00-22:00",
+    "osm": "n8677152117"
+  },
+  {
+    "id": "taco_308",
+    "name": "Comida casera",
+    "lat": 19.396722,
+    "lng": -99.182699,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n8712609917"
+  },
+  {
+    "id": "taco_309",
+    "name": "Yo taquero",
+    "lat": 19.394065,
+    "lng": -99.167174,
+    "type": "fast_food",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n8790614921"
+  },
+  {
+    "id": "taco_310",
+    "name": "Taquería Hermanos Luna",
+    "lat": 19.374788,
+    "lng": -99.188067,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n8843484337"
+  },
+  {
+    "id": "taco_311",
+    "name": "Gorditas Mixcoac",
+    "lat": 19.37481,
+    "lng": -99.188065,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n8843484338"
+  },
+  {
+    "id": "taco_312",
+    "name": "Los Arcos",
+    "lat": 19.373076,
+    "lng": -99.184336,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n8843484351"
+  },
+  {
+    "id": "taco_313",
+    "name": "Taquería Guerrerito",
+    "lat": 19.379447,
+    "lng": -99.18848,
+    "type": "fast_food",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n8843501786"
+  },
+  {
+    "id": "taco_314",
+    "name": "Quesadillas Berlin",
+    "lat": 19.356369,
+    "lng": -99.159473,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": "friday 6-12 saturday 6-12",
+    "osm": "n8843502567"
+  },
+  {
+    "id": "taco_315",
+    "name": "Taquitos Marte",
+    "lat": 19.383619,
+    "lng": -99.128026,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "13:00-00:00",
+    "osm": "n8848863447"
+  },
+  {
+    "id": "taco_316",
+    "name": "El Sarape",
+    "lat": 19.377626,
+    "lng": -99.122848,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n8848911526"
+  },
+  {
+    "id": "taco_317",
+    "name": "Veggicano",
+    "lat": 19.356143,
+    "lng": -99.15529,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n8888111261"
+  },
+  {
+    "id": "taco_318",
+    "name": "La Herradura",
+    "lat": 19.364698,
+    "lng": -99.154374,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n8934219175"
+  },
+  {
+    "id": "taco_319",
+    "name": "Taquería Pastor Negro",
+    "lat": 19.408668,
+    "lng": -99.160172,
+    "type": "pastor",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n8945466019"
+  },
+  {
+    "id": "taco_320",
+    "name": "Taquería El Torito",
+    "lat": 19.428233,
+    "lng": -99.137163,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n8949946417"
+  },
+  {
+    "id": "taco_321",
+    "name": "El sabor de Hidalgo",
+    "lat": 19.410778,
+    "lng": -99.173985,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n8969012317"
+  },
+  {
+    "id": "taco_322",
+    "name": "Fonda Semilla de Mostaza",
+    "lat": 19.379132,
+    "lng": -99.18847,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n8978776783"
+  },
+  {
+    "id": "taco_323",
+    "name": "Tlahco",
+    "lat": 19.3741,
+    "lng": -99.180303,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n9007347917"
+  },
+  {
+    "id": "taco_324",
+    "name": "La Parrilla Suiza",
+    "lat": 19.400082,
+    "lng": -99.139331,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": "Mo-Sa 13:00-23:00",
+    "osm": "n9206560417"
+  },
+  {
+    "id": "taco_325",
+    "name": "los Fifis Taquerias",
+    "lat": 19.434531,
+    "lng": -99.162304,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n9235880217"
+  },
+  {
+    "id": "taco_326",
+    "name": "La Casa de Toño",
+    "lat": 19.433649,
+    "lng": -99.142985,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n9311518646"
+  },
+  {
+    "id": "taco_327",
+    "name": "Cielito Rojo",
+    "lat": 19.364506,
+    "lng": -99.153322,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n9316252458"
+  },
+  {
+    "id": "taco_328",
+    "name": "Las Delicias de Zacatlán",
+    "lat": 19.363329,
+    "lng": -99.153784,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n9316272669"
+  },
+  {
+    "id": "taco_329",
+    "name": "El Solar de Actopan",
+    "lat": 19.391765,
+    "lng": -99.142941,
+    "type": "birria",
+    "intensity": 0.88,
+    "openingHours": null,
+    "osm": "n9332706578"
+  },
+  {
+    "id": "taco_330",
+    "name": "Ricas Tortas",
+    "lat": 19.418183,
+    "lng": -99.167701,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": "Mo-Su 08:00-23:00",
+    "osm": "n9437865217"
+  },
+  {
+    "id": "taco_331",
+    "name": "Tacos Don Manolito",
+    "lat": 19.417712,
+    "lng": -99.163692,
+    "type": "fast_food",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n9582856818"
+  },
+  {
+    "id": "taco_332",
+    "name": "Taquería El Paisa",
+    "lat": 19.403319,
+    "lng": -99.181693,
+    "type": "fast_food",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n9642205805"
+  },
+  {
+    "id": "taco_333",
+    "name": "Toks",
+    "lat": 19.42274,
+    "lng": -99.153691,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n9664827518"
+  },
+  {
+    "id": "taco_334",
+    "name": "Taqueria Punto y Coma",
+    "lat": 19.422871,
+    "lng": -99.161091,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n9720850417"
+  },
+  {
+    "id": "taco_335",
+    "name": "Birria El Jarocho",
+    "lat": 19.409117,
+    "lng": -99.167244,
+    "type": "birria",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n9733693517"
+  },
+  {
+    "id": "taco_336",
+    "name": "Taquería tlaquepaque",
+    "lat": 19.434486,
+    "lng": -99.137835,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n9758534118"
+  },
+  {
+    "id": "taco_337",
+    "name": "Birria Estilo Jalisco - Food Stand",
+    "lat": 19.419861,
+    "lng": -99.160295,
+    "type": "birria",
+    "intensity": 0.86,
+    "openingHours": null,
+    "osm": "n9759957520"
+  },
+  {
+    "id": "taco_338",
+    "name": "Burrito Express",
+    "lat": 19.362691,
+    "lng": -99.180888,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n9768677379"
+  },
+  {
+    "id": "taco_339",
+    "name": "La C-Zina",
+    "lat": 19.391931,
+    "lng": -99.135072,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n9878202531"
+  },
+  {
+    "id": "taco_340",
+    "name": "Tacos fonda argentina",
+    "lat": 19.369986,
+    "lng": -99.173275,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n9951593918"
+  },
+  {
+    "id": "taco_341",
+    "name": "Los Tolucos",
+    "lat": 19.406781,
+    "lng": -99.142428,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n9952061021"
+  },
+  {
+    "id": "taco_342",
+    "name": "Orino",
+    "lat": 19.433242,
+    "lng": -99.188418,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n9952061220"
+  },
+  {
+    "id": "taco_343",
+    "name": "Lonchería Juanita",
+    "lat": 19.396003,
+    "lng": -99.134496,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n9952064717"
+  },
+  {
+    "id": "taco_344",
+    "name": "Los Asustacos",
+    "lat": 19.379796,
+    "lng": -99.147923,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n9953536518"
+  },
+  {
+    "id": "taco_345",
+    "name": "Los hornillos",
+    "lat": 19.393554,
+    "lng": -99.1501,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n9953536817"
+  },
+  {
+    "id": "taco_346",
+    "name": "Los Primos",
+    "lat": 19.393331,
+    "lng": -99.150357,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n9953628818"
+  },
+  {
+    "id": "taco_347",
+    "name": "Carnitas Don Rafa",
+    "lat": 19.355555,
+    "lng": -99.129856,
+    "type": "carnitas",
+    "intensity": 0.81,
+    "openingHours": null,
+    "osm": "n9955916443"
+  },
+  {
+    "id": "taco_348",
+    "name": "Los Re-tacados",
+    "lat": 19.357331,
+    "lng": -99.118714,
+    "type": "fast_food",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n9957735211"
+  },
+  {
+    "id": "taco_349",
+    "name": "La Chinampa",
+    "lat": 19.37087,
+    "lng": -99.185849,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n9960026417"
+  },
+  {
+    "id": "taco_350",
+    "name": "Birria El Paisa",
+    "lat": 19.357923,
+    "lng": -99.119991,
+    "type": "birria",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n9965169790"
+  },
+  {
+    "id": "taco_351",
+    "name": "Dragonejo",
+    "lat": 19.35848,
+    "lng": -99.130817,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n9978883204"
+  },
+  {
+    "id": "taco_352",
+    "name": "Taquería La Peña",
+    "lat": 19.358178,
+    "lng": -99.128003,
+    "type": "fast_food",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n9989258420"
+  },
+  {
+    "id": "taco_353",
+    "name": "Taqueria Gabriel",
+    "lat": 19.429591,
+    "lng": -99.165856,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n9991795918"
+  },
+  {
+    "id": "taco_354",
+    "name": "Taquería y Pozolería",
+    "lat": 19.362926,
+    "lng": -99.110069,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n10069616424"
+  },
+  {
+    "id": "taco_355",
+    "name": "Quereres",
+    "lat": 19.432966,
+    "lng": -99.148795,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Tu-Th,Su 09:00-17:00; Fr,Sa 09:00-20:00",
+    "osm": "n10069621220"
+  },
+  {
+    "id": "taco_356",
+    "name": "Restaurant Las Américas",
+    "lat": 19.433241,
+    "lng": -99.14931,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n10069621417"
+  },
+  {
+    "id": "taco_357",
+    "name": "Tacos \"El Cuñado\"",
+    "lat": 19.427452,
+    "lng": -99.150164,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n10119950317"
+  },
+  {
+    "id": "taco_358",
+    "name": "Birria Estilo Jalisco",
+    "lat": 19.427446,
+    "lng": -99.150005,
+    "type": "birria",
+    "intensity": 0.81,
+    "openingHours": null,
+    "osm": "n10119951017"
+  },
+  {
+    "id": "taco_359",
+    "name": "El Ferry Loco",
+    "lat": 19.417504,
+    "lng": -99.155588,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n10172000432"
+  },
+  {
+    "id": "taco_360",
+    "name": "Tizne Tacomotora (Roma)",
+    "lat": 19.417625,
+    "lng": -99.155946,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n10172018590"
+  },
+  {
+    "id": "taco_361",
+    "name": "Taquería Pocho",
+    "lat": 19.431374,
+    "lng": -99.141538,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n10173843945"
+  },
+  {
+    "id": "taco_362",
+    "name": "Taquería \"La Chinampa\"",
+    "lat": 19.373532,
+    "lng": -99.169025,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": null,
+    "osm": "n10218721059"
+  },
+  {
+    "id": "taco_363",
+    "name": "Serenna",
+    "lat": 19.407778,
+    "lng": -99.165118,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": "Tu-Su 08:00-22:00; Mo 09:00-21:00",
+    "osm": "n10241564609"
+  },
+  {
+    "id": "taco_364",
+    "name": "Veganismo Lonchería vegana",
+    "lat": 19.423984,
+    "lng": -99.15463,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Tu-Su 13:00-20:00",
+    "osm": "n10296082209"
+  },
+  {
+    "id": "taco_365",
+    "name": "Restaurante Erendira",
+    "lat": 19.410146,
+    "lng": -99.113371,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n10300856110"
+  },
+  {
+    "id": "taco_366",
+    "name": "El Bajío",
+    "lat": 19.434853,
+    "lng": -99.13805,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n10555670797"
+  },
+  {
+    "id": "taco_367",
+    "name": "Super tacos de guisado",
+    "lat": 19.420262,
+    "lng": -99.164097,
+    "type": "guisados",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n10570795655"
+  },
+  {
+    "id": "taco_368",
+    "name": "La Cinco de Mayo",
+    "lat": 19.434271,
+    "lng": -99.137701,
+    "type": "fast_food",
+    "intensity": 0.78,
+    "openingHours": "24/7",
+    "osm": "n10577781242"
+  },
+  {
+    "id": "taco_369",
+    "name": "Eno",
+    "lat": 19.433374,
+    "lng": -99.185526,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": "Mo-Su 07:00-21:00",
+    "osm": "n10605543021"
+  },
+  {
+    "id": "taco_370",
+    "name": "Vips",
+    "lat": 19.433324,
+    "lng": -99.184825,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n10605543033"
+  },
+  {
+    "id": "taco_371",
+    "name": "Taquearte",
+    "lat": 19.418633,
+    "lng": -99.156766,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n10754906036"
+  },
+  {
+    "id": "taco_372",
+    "name": "Vasconia tacos tortas etc",
+    "lat": 19.427304,
+    "lng": -99.131584,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n10769055306"
+  },
+  {
+    "id": "taco_373",
+    "name": "Pollo Pancho",
+    "lat": 19.417967,
+    "lng": -99.160038,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": "Su-Th 08:00-21:00; Fr-Sa 09:00-21:00",
+    "osm": "n10796143506"
+  },
+  {
+    "id": "taco_374",
+    "name": "La Loca Hambre",
+    "lat": 19.411334,
+    "lng": -99.185553,
+    "type": "fast_food",
+    "intensity": 0.76,
+    "openingHours": "Mo-Sa 08:30-18:00",
+    "osm": "n10799974305"
+  },
+  {
+    "id": "taco_375",
+    "name": "Tacos \"Los Parientes\"",
+    "lat": 19.434057,
+    "lng": -99.168169,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n10800274205"
+  },
+  {
+    "id": "taco_376",
+    "name": "Real del Barrio",
+    "lat": 19.424088,
+    "lng": -99.169023,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": "Mo-Fr 07:00-21:00; Sa,Su 08:00-19:00",
+    "osm": "n10908376398"
+  },
+  {
+    "id": "taco_377",
+    "name": "El tesoro de Sonora",
+    "lat": 19.391388,
+    "lng": -99.135825,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Mo-Fr 13:00-22:50; Sa 09:00-22:50; Su 09:00-20:00",
+    "osm": "n10917002278"
+  },
+  {
+    "id": "taco_378",
+    "name": "La Sirlonería",
+    "lat": 19.431405,
+    "lng": -99.151552,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n10920756837"
+  },
+  {
+    "id": "taco_379",
+    "name": "Fonda Parilla",
+    "lat": 19.405987,
+    "lng": -99.114469,
+    "type": "fast_food",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n10951109506"
+  },
+  {
+    "id": "taco_380",
+    "name": "Tarasquito Tacos",
+    "lat": 19.3646,
+    "lng": -99.109706,
+    "type": "fast_food",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n10951109513"
+  },
+  {
+    "id": "taco_381",
+    "name": "BB KFE",
+    "lat": 19.407761,
+    "lng": -99.163982,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n10969557805"
+  },
+  {
+    "id": "taco_382",
+    "name": "Bisquets Obregón",
+    "lat": 19.435089,
+    "lng": -99.134415,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n10978448654"
+  },
+  {
+    "id": "taco_383",
+    "name": "El Mercado Amazónico",
+    "lat": 19.417817,
+    "lng": -99.155405,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n10991126582"
+  },
+  {
+    "id": "taco_384",
+    "name": "Asador del Gaucho",
+    "lat": 19.442888,
+    "lng": -99.165158,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n10993209575"
+  },
+  {
+    "id": "taco_385",
+    "name": "Taco de Oro",
+    "lat": 19.429012,
+    "lng": -99.142733,
+    "type": "fast_food",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n11015130479"
+  },
+  {
+    "id": "taco_386",
+    "name": "Fonda La Villa",
+    "lat": 19.390257,
+    "lng": -99.135558,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n11047392744"
+  },
+  {
+    "id": "taco_387",
+    "name": "El Condimento",
+    "lat": 19.39131,
+    "lng": -99.13517,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": "Mo-Sa 09:00-18:00",
+    "osm": "n11047392768"
+  },
+  {
+    "id": "taco_388",
+    "name": "Restaurante Bar la Escena",
+    "lat": 19.433176,
+    "lng": -99.15051,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Mo-Sa 10:00-03:00",
+    "osm": "n11048931766"
+  },
+  {
+    "id": "taco_389",
+    "name": "El Negrito",
+    "lat": 19.380024,
+    "lng": -99.139601,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Mo-Fr 09:00-23:00",
+    "osm": "n11051970979"
+  },
+  {
+    "id": "taco_390",
+    "name": "La Pibil",
+    "lat": 19.379098,
+    "lng": -99.127824,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": "Mo-Su 09:00-17:00",
+    "osm": "n11053757327"
+  },
+  {
+    "id": "taco_391",
+    "name": "Milena Restaurante Café",
+    "lat": 19.389198,
+    "lng": -99.135453,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": "Mo-Su 08:00-22:00",
+    "osm": "n11053915494"
+  },
+  {
+    "id": "taco_392",
+    "name": "El Rincón Mexica",
+    "lat": 19.388244,
+    "lng": -99.135591,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Mo-Sa 08:00-21:30",
+    "osm": "n11053915500"
+  },
+  {
+    "id": "taco_393",
+    "name": "Taco Game Narvarte",
+    "lat": 19.39566,
+    "lng": -99.154617,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "Mo-Su 13:00-22:00",
+    "osm": "n11070234724"
+  },
+  {
+    "id": "taco_394",
+    "name": "Vips",
+    "lat": 19.364852,
+    "lng": -99.182116,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n11111492229"
+  },
+  {
+    "id": "taco_395",
+    "name": "Tortas Hector",
+    "lat": 19.36396,
+    "lng": -99.184382,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n11111673032"
+  },
+  {
+    "id": "taco_396",
+    "name": "El Rincón Tapatío",
+    "lat": 19.433354,
+    "lng": -99.145518,
+    "type": "fast_food",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n11120978327"
+  },
+  {
+    "id": "taco_397",
+    "name": "El pinguino (Carnitas)",
+    "lat": 19.364668,
+    "lng": -99.188512,
+    "type": "carnitas",
+    "intensity": 0.86,
+    "openingHours": null,
+    "osm": "n11123354745"
+  },
+  {
+    "id": "taco_398",
+    "name": "Taqueria las",
+    "lat": 19.420063,
+    "lng": -99.176696,
+    "type": "fast_food",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n11232921337"
+  },
+  {
+    "id": "taco_399",
+    "name": "Tacos, gorditas Vane",
+    "lat": 19.445409,
+    "lng": -99.197516,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "Mo-Sa 09:00-17:00",
+    "osm": "n11280226869"
+  },
+  {
+    "id": "taco_400",
+    "name": "El Tigre Silencioso",
+    "lat": 19.420192,
+    "lng": -99.159476,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": "Mo-Su 14:00-20:00",
+    "osm": "n11300867769"
+  },
+  {
+    "id": "taco_401",
+    "name": "Taquería Orinoco",
+    "lat": 19.417797,
+    "lng": -99.163285,
+    "type": "fast_food",
+    "intensity": 0.77,
+    "openingHours": "Mo-Th 13:00-03:30; Fr-Sa 13:00-05:00; Su 13:00-04:00",
+    "osm": "n11300884269"
+  },
+  {
+    "id": "taco_402",
+    "name": "Gracias Madre Taqueria Vegana",
+    "lat": 19.41954,
+    "lng": -99.158479,
+    "type": "fast_food",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n11300885069"
+  },
+  {
+    "id": "taco_403",
+    "name": "Taquería Los Cocuyos",
+    "lat": 19.430169,
+    "lng": -99.138757,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n11337020469"
+  },
+  {
+    "id": "taco_404",
+    "name": "Tacos Victoria",
+    "lat": 19.435505,
+    "lng": -99.137306,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n11340726770"
+  },
+  {
+    "id": "taco_405",
+    "name": "Esquites Ruls",
+    "lat": 19.427375,
+    "lng": -99.155688,
+    "type": "fast_food",
+    "intensity": 0.73,
+    "openingHours": "Tu-Su 15:00-22:30",
+    "osm": "n11460192426"
+  },
+  {
+    "id": "taco_406",
+    "name": "El Mexicano",
+    "lat": 19.428699,
+    "lng": -99.16873,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n11493857847"
+  },
+  {
+    "id": "taco_407",
+    "name": "Taquería Orinoco",
+    "lat": 19.425665,
+    "lng": -99.166749,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "Su-We 13:00-03:30, Th 13:00-04:00, Fr,Sa 13:00-05:30",
+    "osm": "n11495562929"
+  },
+  {
+    "id": "taco_408",
+    "name": "Tacos los Juanes",
+    "lat": 19.420718,
+    "lng": -99.171231,
+    "type": "fast_food",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n11502328969"
+  },
+  {
+    "id": "taco_409",
+    "name": "El Polanquito",
+    "lat": 19.430987,
+    "lng": -99.197292,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": "Mo-Fr 08:00-17:30; Sa-Su off",
+    "osm": "n11592229956"
+  },
+  {
+    "id": "taco_410",
+    "name": "La Gloriosa",
+    "lat": 19.433626,
+    "lng": -99.154295,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00",
+    "osm": "n11654742695"
+  },
+  {
+    "id": "taco_411",
+    "name": "Taco House",
+    "lat": 19.425256,
+    "lng": -99.177112,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n11670272747"
+  },
+  {
+    "id": "taco_412",
+    "name": "Restaurante El Paisa Carlos",
+    "lat": 19.423106,
+    "lng": -99.151813,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": "Mo-Fr 08:30-18:00",
+    "osm": "n11728606769"
+  },
+  {
+    "id": "taco_413",
+    "name": "Pambazo Loco",
+    "lat": 19.410783,
+    "lng": -99.12062,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n11735587418"
+  },
+  {
+    "id": "taco_414",
+    "name": "Taqueria Los Gueros de Lopez",
+    "lat": 19.429669,
+    "lng": -99.142636,
+    "type": "fast_food",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n11746715416"
+  },
+  {
+    "id": "taco_415",
+    "name": "El Huequito Tacos Gourmet",
+    "lat": 19.43065,
+    "lng": -99.142951,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": "Mo-Su 09:00-21:00",
+    "osm": "n11746715417"
+  },
+  {
+    "id": "taco_416",
+    "name": "Titanes del Taco",
+    "lat": 19.416917,
+    "lng": -99.19552,
+    "type": "fast_food",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n11754127343"
+  },
+  {
+    "id": "taco_417",
+    "name": "La güerita",
+    "lat": 19.388896,
+    "lng": -99.143358,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": "Mo-Su 08:29-17:30",
+    "osm": "n11756864569"
+  },
+  {
+    "id": "taco_418",
+    "name": "Barbacoa",
+    "lat": 19.393617,
+    "lng": -99.176892,
+    "type": "birria",
+    "intensity": 0.79,
+    "openingHours": "Su 08:00-17:00",
+    "osm": "n11781708769"
+  },
+  {
+    "id": "taco_419",
+    "name": "Taquitos Frontera",
+    "lat": 19.386126,
+    "lng": -99.136691,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n11832134069"
+  },
+  {
+    "id": "taco_420",
+    "name": "Taquitos Frontera",
+    "lat": 19.418972,
+    "lng": -99.15752,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n11842439906"
+  },
+  {
+    "id": "taco_421",
+    "name": "La Casa de los Trompos",
+    "lat": 19.434856,
+    "lng": -99.160534,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n11879455071"
+  },
+  {
+    "id": "taco_422",
+    "name": "Taqueri El Califa del León",
+    "lat": 19.441027,
+    "lng": -99.159125,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n11909161369"
+  },
+  {
+    "id": "taco_423",
+    "name": "Los Queridos",
+    "lat": 19.435205,
+    "lng": -99.184136,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": "Mo-Su 13:00-13:00",
+    "osm": "n12013114953"
+  },
+  {
+    "id": "taco_424",
+    "name": "Yellow Monkey",
+    "lat": 19.418447,
+    "lng": -99.176313,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Su 09:00-18:00; Tu-Th 08:30-18:00; Fr-Sa 09:30-19:00",
+    "osm": "n12145285302"
+  },
+  {
+    "id": "taco_425",
+    "name": "Dos Más y Te Olvido",
+    "lat": 19.395651,
+    "lng": -99.154675,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": "Mo 14:00-21:00; Tu-Th 14:00-22:00; Fr 14:00-01:00; Sa 14:00-23:30; Su 14:00-20:30",
+    "osm": "n12146989801"
+  },
+  {
+    "id": "taco_426",
+    "name": "El Cardenal Tacuba",
+    "lat": 19.43616,
+    "lng": -99.140006,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": "Mo-Su 08:00-18:00",
+    "osm": "n12207996201"
+  },
+  {
+    "id": "taco_427",
+    "name": "Veganismo",
+    "lat": 19.37127,
+    "lng": -99.171198,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": "Mo-Su 13:00-21:30",
+    "osm": "n12232810501"
+  },
+  {
+    "id": "taco_428",
+    "name": "Los Huaraches de Bolsena",
+    "lat": 19.44651,
+    "lng": -99.191103,
+    "type": "fast_food",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n12250823380"
+  },
+  {
+    "id": "taco_429",
+    "name": "Anitas Tacos y Hamburguesas",
+    "lat": 19.446621,
+    "lng": -99.190272,
+    "type": "fast_food",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n12250823386"
+  },
+  {
+    "id": "taco_430",
+    "name": "Cuatro20",
+    "lat": 19.435172,
+    "lng": -99.13658,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n12366256801"
+  },
+  {
+    "id": "taco_431",
+    "name": "Casa de la Yeya",
+    "lat": 19.371068,
+    "lng": -99.177726,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": "Lunes 08:00 - 19:00 Martes 08:00 - 19:00 Miércoles 08:00 - 19:00 Jueves 08:00 - 19:00 Viernes 08:00 - 19:00 Sábado 08:00 - 19:00 Domingo 08:00 - 19:00",
+    "osm": "n12391630470"
+  },
+  {
+    "id": "taco_432",
+    "name": "Tacos de Armando",
+    "lat": 19.426731,
+    "lng": -99.170708,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n12460499601"
+  },
+  {
+    "id": "taco_433",
+    "name": "La Casa de Toño",
+    "lat": 19.366693,
+    "lng": -99.181742,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n12464438442"
+  },
+  {
+    "id": "taco_434",
+    "name": "Comida La Abuela",
+    "lat": 19.434611,
+    "lng": -99.13549,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n12539619702"
+  },
+  {
+    "id": "taco_435",
+    "name": "Pancita - local 43",
+    "lat": 19.413586,
+    "lng": -99.14627,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": "Mo-Su 09:00-13:00",
+    "osm": "n12539631001"
+  },
+  {
+    "id": "taco_436",
+    "name": "El Regreso",
+    "lat": 19.373094,
+    "lng": -99.175323,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n12599870795"
+  },
+  {
+    "id": "taco_437",
+    "name": "La Casa del Tio Toño",
+    "lat": 19.372578,
+    "lng": -99.172704,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n12599925133"
+  },
+  {
+    "id": "taco_438",
+    "name": "Taquería Orinoco",
+    "lat": 19.418156,
+    "lng": -99.159232,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n12628683401"
+  },
+  {
+    "id": "taco_439",
+    "name": "Taquería Orinoco",
+    "lat": 19.416487,
+    "lng": -99.167273,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n12628688901"
+  },
+  {
+    "id": "taco_440",
+    "name": "Las costillas de la Condesa",
+    "lat": 19.416009,
+    "lng": -99.177245,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n12662011601"
+  },
+  {
+    "id": "taco_441",
+    "name": "Micheviche",
+    "lat": 19.410291,
+    "lng": -99.182763,
+    "type": "mexican",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n12662011702"
+  },
+  {
+    "id": "taco_442",
+    "name": "La Chalupería",
+    "lat": 19.439937,
+    "lng": -99.160223,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n12695574701"
+  },
+  {
+    "id": "taco_443",
+    "name": "Azulísimo",
+    "lat": 19.43141,
+    "lng": -99.137053,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n12710605501"
+  },
+  {
+    "id": "taco_444",
+    "name": "El Huequito",
+    "lat": 19.430921,
+    "lng": -99.156015,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": "Mo,Tu 10:00-21:00, We-Su 11:00-04:00",
+    "osm": "n12749170253"
+  },
+  {
+    "id": "taco_445",
+    "name": "El Manjar",
+    "lat": 19.417423,
+    "lng": -99.167509,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n12751100634"
+  },
+  {
+    "id": "taco_446",
+    "name": "Taco Santo",
+    "lat": 19.417258,
+    "lng": -99.16068,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Su-Th 13:00-22:00; Fr-Sa 13:00-23:00",
+    "osm": "n12751678201"
+  },
+  {
+    "id": "taco_447",
+    "name": "Tacos Laredo",
+    "lat": 19.41878,
+    "lng": -99.167156,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n12753315913"
+  },
+  {
+    "id": "taco_448",
+    "name": "Carnitas Paty",
+    "lat": 19.40864,
+    "lng": -99.122469,
+    "type": "carnitas",
+    "intensity": 0.87,
+    "openingHours": "Tu-Su 10:30-18:00; Mo 11:00-18:00",
+    "osm": "n12755421118"
+  },
+  {
+    "id": "taco_449",
+    "name": "Los Especiales",
+    "lat": 19.4306,
+    "lng": -99.144463,
+    "type": "fast_food",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n12755545609"
+  },
+  {
+    "id": "taco_450",
+    "name": "Mochingon Comida Norteña",
+    "lat": 19.35678,
+    "lng": -99.115437,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n12787170814"
+  },
+  {
+    "id": "taco_451",
+    "name": "Bisquets Obregón",
+    "lat": 19.43733,
+    "lng": -99.200946,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n12790254001"
+  },
+  {
+    "id": "taco_452",
+    "name": "Taco Naco",
+    "lat": 19.359562,
+    "lng": -99.138361,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n12823595553"
+  },
+  {
+    "id": "taco_453",
+    "name": "Los Chulos",
+    "lat": 19.361077,
+    "lng": -99.150777,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n12823611760"
+  },
+  {
+    "id": "taco_454",
+    "name": "El Naranjito",
+    "lat": 19.3606,
+    "lng": -99.147582,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n12823615590"
+  },
+  {
+    "id": "taco_455",
+    "name": "Taquería Frank's",
+    "lat": 19.389245,
+    "lng": -99.155221,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Mo-Su 14:00-00:00",
+    "osm": "n12824774833"
+  },
+  {
+    "id": "taco_456",
+    "name": "La Casa de Toño",
+    "lat": 19.424714,
+    "lng": -99.165173,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": "24/7",
+    "osm": "n12843656237"
+  },
+  {
+    "id": "taco_457",
+    "name": "Tacos Los Caramelos",
+    "lat": 19.402765,
+    "lng": -99.168685,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": "Lu-Vi 14:00 - 22:00, Sa-Do 10:00 - 16:00",
+    "osm": "n12845329601"
+  },
+  {
+    "id": "taco_458",
+    "name": "Tortas La Doña",
+    "lat": 19.390359,
+    "lng": -99.172572,
+    "type": "fast_food",
+    "intensity": 0.72,
+    "openingHours": "Mo-Th 09:30-20:00,Fr-Sa 09:30-23:00",
+    "osm": "n12872270358"
+  },
+  {
+    "id": "taco_459",
+    "name": "Ricos Tacos",
+    "lat": 19.359362,
+    "lng": -99.163421,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n12908623293"
+  },
+  {
+    "id": "taco_460",
+    "name": "Barbaco y pancita Don José",
+    "lat": 19.451162,
+    "lng": -99.159895,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n12985627598"
+  },
+  {
+    "id": "taco_461",
+    "name": "Tacos y tortas \"La Fuente\"",
+    "lat": 19.453156,
+    "lng": -99.160379,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n13052847310"
+  },
+  {
+    "id": "taco_462",
+    "name": "El taco de Don Juan",
+    "lat": 19.406406,
+    "lng": -99.144572,
+    "type": "fast_food",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n13054710348"
+  },
+  {
+    "id": "taco_463",
+    "name": "La Pancita de la Roma",
+    "lat": 19.419877,
+    "lng": -99.17456,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n13057122511"
+  },
+  {
+    "id": "taco_464",
+    "name": "La Casa De Las Sirenas",
+    "lat": 19.435075,
+    "lng": -99.13228,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n13076911403"
+  },
+  {
+    "id": "taco_465",
+    "name": "El Mexiquense",
+    "lat": 19.384583,
+    "lng": -99.160608,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n13085532312"
+  },
+  {
+    "id": "taco_466",
+    "name": "Taquería \"El Arbolito\"",
+    "lat": 19.451701,
+    "lng": -99.200845,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n13090469592"
+  },
+  {
+    "id": "taco_467",
+    "name": "Quekas Mesones",
+    "lat": 19.427929,
+    "lng": -99.129101,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Mo-Su 09:00-18:00",
+    "osm": "n13095125714"
+  },
+  {
+    "id": "taco_468",
+    "name": "La Resurrección",
+    "lat": 19.428522,
+    "lng": -99.136527,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": "Mo-Su 08:30-22:00",
+    "osm": "n13095379201"
+  },
+  {
+    "id": "taco_469",
+    "name": "El burro hermoso",
+    "lat": 19.425568,
+    "lng": -99.174883,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n13104456801"
+  },
+  {
+    "id": "taco_470",
+    "name": "Los Lalos",
+    "lat": 19.428647,
+    "lng": -99.168852,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n13109060701"
+  },
+  {
+    "id": "taco_471",
+    "name": "El Farolito",
+    "lat": 19.432992,
+    "lng": -99.189585,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n13109079659"
+  },
+  {
+    "id": "taco_472",
+    "name": "Taquerías La Taque",
+    "lat": 19.431823,
+    "lng": -99.161699,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n13109172801"
+  },
+  {
+    "id": "taco_473",
+    "name": "Califa",
+    "lat": 19.431626,
+    "lng": -99.186115,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": "Mo-Su 12:00-04:00",
+    "osm": "n13113062150"
+  },
+  {
+    "id": "taco_474",
+    "name": "Tacos del Sur",
+    "lat": 19.400508,
+    "lng": -99.172001,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n13122883101"
+  },
+  {
+    "id": "taco_475",
+    "name": "Barbacoa Obraje",
+    "lat": 19.440825,
+    "lng": -99.140391,
+    "type": "birria",
+    "intensity": 0.73,
+    "openingHours": "Sa,Su 08:00-15:00",
+    "osm": "n13130451652"
+  },
+  {
+    "id": "taco_476",
+    "name": "El Sazón del Buen Sabor",
+    "lat": 19.439106,
+    "lng": -99.142104,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Mo-Sa 08:00-18:00",
+    "osm": "n13132178785"
+  },
+  {
+    "id": "taco_477",
+    "name": "Tacos Argentinos",
+    "lat": 19.397184,
+    "lng": -99.16623,
+    "type": "fast_food",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n13132414301"
+  },
+  {
+    "id": "taco_478",
+    "name": "Los Lalos Taqueria Al Carbón",
+    "lat": 19.428611,
+    "lng": -99.168876,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n13135675503"
+  },
+  {
+    "id": "taco_479",
+    "name": "Komo En Kasa",
+    "lat": 19.438004,
+    "lng": -99.141101,
+    "type": "mexican",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n13142311221"
+  },
+  {
+    "id": "taco_480",
+    "name": "Taquería Danny",
+    "lat": 19.437856,
+    "lng": -99.141265,
+    "type": "fast_food",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n13145539545"
+  },
+  {
+    "id": "taco_481",
+    "name": "Tacos Atarantados",
+    "lat": 19.412439,
+    "lng": -99.166639,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n13157563801"
+  },
+  {
+    "id": "taco_482",
+    "name": "Taquería La Parilla Suiza",
+    "lat": 19.437495,
+    "lng": -99.201155,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n13182345301"
+  },
+  {
+    "id": "taco_483",
+    "name": "Cosecha Oaxaca",
+    "lat": 19.417791,
+    "lng": -99.155269,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n13282168601"
+  },
+  {
+    "id": "taco_484",
+    "name": "Don Chalo",
+    "lat": 19.417777,
+    "lng": -99.155318,
+    "type": "fast_food",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n13282168701"
+  },
+  {
+    "id": "taco_485",
+    "name": "El papá de los Naranjitos",
+    "lat": 19.389875,
+    "lng": -99.149714,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n13289756270"
+  },
+  {
+    "id": "taco_486",
+    "name": "El sazón",
+    "lat": 19.431959,
+    "lng": -99.141694,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": "Mo-Th 09:00-20:30; Fr-Sa 09:00-22:30",
+    "osm": "n13318465501"
+  },
+  {
+    "id": "taco_487",
+    "name": "Amor y Tacos desde 1958",
+    "lat": 19.431345,
+    "lng": -99.130802,
+    "type": "fast_food",
+    "intensity": 0.68,
+    "openingHours": "Mo-Su 10:00-19:30",
+    "osm": "n13318482601"
+  },
+  {
+    "id": "taco_488",
+    "name": "Fonda del Recuerdo",
+    "lat": 19.428172,
+    "lng": -99.16936,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n13346191901"
+  },
+  {
+    "id": "taco_489",
+    "name": "Filigrana",
+    "lat": 19.417566,
+    "lng": -99.174017,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "n13351749201"
+  },
+  {
+    "id": "taco_490",
+    "name": "Entremar",
+    "lat": 19.43304,
+    "lng": -99.188131,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n13354550001"
+  },
+  {
+    "id": "taco_491",
+    "name": "Tacos la Flor de Turin",
+    "lat": 19.425832,
+    "lng": -99.155444,
+    "type": "fast_food",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n13368379160"
+  },
+  {
+    "id": "taco_492",
+    "name": "Los Burros A Todo Mecate",
+    "lat": 19.42561,
+    "lng": -99.1615,
+    "type": "fast_food",
+    "intensity": 0.75,
+    "openingHours": "Mo-Sa 10:25-18:30",
+    "osm": "n13391836401"
+  },
+  {
+    "id": "taco_493",
+    "name": "Tacos La Chula",
+    "lat": 19.425311,
+    "lng": -99.161711,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "24/7",
+    "osm": "n13391844701"
+  },
+  {
+    "id": "taco_494",
+    "name": "Cocina Leo",
+    "lat": 19.440137,
+    "lng": -99.114289,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n13406650901"
+  },
+  {
+    "id": "taco_495",
+    "name": "Tacos Atarantados",
+    "lat": 19.418026,
+    "lng": -99.158547,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n13408923471"
+  },
+  {
+    "id": "taco_496",
+    "name": "Maiabik",
+    "lat": 19.406841,
+    "lng": -99.173442,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": "Mo-Sa 09:00-17:30; Su 09:30-14:30",
+    "osm": "n13408985819"
+  },
+  {
+    "id": "taco_497",
+    "name": "El Inicio",
+    "lat": 19.418932,
+    "lng": -99.157628,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": "Mo-Sa 08:30-24:00; Su 08:30-23:00",
+    "osm": "n13418265373"
+  },
+  {
+    "id": "taco_498",
+    "name": "Elotes y Esquites \"Los Juniors\"",
+    "lat": 19.411515,
+    "lng": -99.171234,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n13444488801"
+  },
+  {
+    "id": "taco_499",
+    "name": "Gracias Madre Taquería Vegana",
+    "lat": 19.419794,
+    "lng": -99.157282,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Mo-Sa 09:00-23:00; Su 09:00-22:30",
+    "osm": "n13471579503"
+  },
+  {
+    "id": "taco_500",
+    "name": "Cafe Canella",
+    "lat": 19.437017,
+    "lng": -99.166615,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n13474426254"
+  },
+  {
+    "id": "taco_501",
+    "name": "Casa Lia",
+    "lat": 19.442225,
+    "lng": -99.195566,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n13513381566"
+  },
+  {
+    "id": "taco_502",
+    "name": "Tacos del Trompo",
+    "lat": 19.423042,
+    "lng": -99.189269,
+    "type": "fast_food",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n13529823813"
+  },
+  {
+    "id": "taco_503",
+    "name": "Taqueria Solis",
+    "lat": 19.434732,
+    "lng": -99.165999,
+    "type": "fast_food",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n13530491497"
+  },
+  {
+    "id": "taco_504",
+    "name": "Dembo Café",
+    "lat": 19.385831,
+    "lng": -99.177616,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n13568784519"
+  },
+  {
+    "id": "taco_505",
+    "name": "Xkina Reforma",
+    "lat": 19.436364,
+    "lng": -99.147662,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": "Mo-Su 07:00-23:00",
+    "osm": "n13592259826"
+  },
+  {
+    "id": "taco_506",
+    "name": "Amaia",
+    "lat": 19.394624,
+    "lng": -99.164582,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n13623888842"
+  },
+  {
+    "id": "taco_507",
+    "name": "Taquería La Reyna",
+    "lat": 19.403617,
+    "lng": -99.164187,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": "Mo-Sa 10:00-23:00; Su 10:00-22:00",
+    "osm": "n13670387083"
+  },
+  {
+    "id": "taco_508",
+    "name": "Tacos San Burgos",
+    "lat": 19.425558,
+    "lng": -99.166417,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "n13670473112"
+  },
+  {
+    "id": "taco_509",
+    "name": "Carolines 400",
+    "lat": 19.425657,
+    "lng": -99.172348,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Miercoles - Viernes  21:00-2:00",
+    "osm": "n13710172142"
+  },
+  {
+    "id": "taco_510",
+    "name": "Potzollcalli",
+    "lat": 19.434189,
+    "lng": -99.136775,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n13714168766"
+  },
+  {
+    "id": "taco_511",
+    "name": "Tezontle",
+    "lat": 19.429571,
+    "lng": -99.132972,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n13716009796"
+  },
+  {
+    "id": "taco_512",
+    "name": "Pinches Tacos!",
+    "lat": 19.436978,
+    "lng": -99.161961,
+    "type": "fast_food",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n13768342363"
+  },
+  {
+    "id": "taco_513",
+    "name": "Taqueria El Pato",
+    "lat": 19.422102,
+    "lng": -99.173345,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n13805398729"
+  },
+  {
+    "id": "taco_514",
+    "name": "Mini Gourmet",
+    "lat": 19.422645,
+    "lng": -99.172671,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n13807008028"
+  },
+  {
+    "id": "taco_515",
+    "name": "El Rincon Del Taco",
+    "lat": 19.435329,
+    "lng": -99.165894,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n13809748712"
+  },
+  {
+    "id": "taco_516",
+    "name": "Tacos El Bambas",
+    "lat": 19.435194,
+    "lng": -99.162876,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "n13809748751"
+  },
+  {
+    "id": "taco_517",
+    "name": "Las ChilpaFlautas",
+    "lat": 19.422106,
+    "lng": -99.171553,
+    "type": "fast_food",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n13810108172"
+  },
+  {
+    "id": "taco_518",
+    "name": "El Abuelo",
+    "lat": 19.422152,
+    "lng": -99.171346,
+    "type": "fast_food",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n13810108173"
+  },
+  {
+    "id": "taco_519",
+    "name": "La Cabañita",
+    "lat": 19.422216,
+    "lng": -99.171608,
+    "type": "fast_food",
+    "intensity": 0.79,
+    "openingHours": null,
+    "osm": "n13810108177"
+  },
+  {
+    "id": "taco_520",
+    "name": "Rosty",
+    "lat": 19.422246,
+    "lng": -99.171623,
+    "type": "mexican",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n13810108178"
+  },
+  {
+    "id": "taco_521",
+    "name": "Tortas Toledo",
+    "lat": 19.422293,
+    "lng": -99.171644,
+    "type": "fast_food",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n13810108179"
+  },
+  {
+    "id": "taco_522",
+    "name": "Taquería Lupita",
+    "lat": 19.422353,
+    "lng": -99.170952,
+    "type": "fast_food",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n13810108195"
+  },
+  {
+    "id": "taco_523",
+    "name": "Tacos Londres",
+    "lat": 19.422322,
+    "lng": -99.170985,
+    "type": "fast_food",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n13810108197"
+  },
+  {
+    "id": "taco_524",
+    "name": "Taquería La Palmera",
+    "lat": 19.423415,
+    "lng": -99.171063,
+    "type": "fast_food",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "n13811907180"
+  },
+  {
+    "id": "taco_525",
+    "name": "Tacos La Soledad",
+    "lat": 19.423365,
+    "lng": -99.17228,
+    "type": "fast_food",
+    "intensity": 0.67,
+    "openingHours": null,
+    "osm": "n13811907185"
+  },
+  {
+    "id": "taco_526",
+    "name": "El Taco de Oro",
+    "lat": 19.431256,
+    "lng": -99.135085,
+    "type": "fast_food",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "n13831773042"
+  },
+  {
+    "id": "taco_527",
+    "name": "Las Kekas",
+    "lat": 19.436212,
+    "lng": -99.156298,
+    "type": "fast_food",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n13838803452"
+  },
+  {
+    "id": "taco_528",
+    "name": "El Niño del Reloj",
+    "lat": 19.433146,
+    "lng": -99.135145,
+    "type": "fast_food",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n13851250892"
+  },
+  {
+    "id": "taco_529",
+    "name": "La Terraza del Conquistador",
+    "lat": 19.432508,
+    "lng": -99.134372,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "n13851294803"
+  },
+  {
+    "id": "taco_530",
+    "name": "Tacos Ruben",
+    "lat": 19.401696,
+    "lng": -99.175882,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n13863454205"
+  },
+  {
+    "id": "taco_531",
+    "name": "Taqueria La Brisa",
+    "lat": 19.401396,
+    "lng": -99.174778,
+    "type": "fast_food",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n13929965985"
+  },
+  {
+    "id": "taco_532",
+    "name": "Taquería Bella Birria",
+    "lat": 19.396551,
+    "lng": -99.193095,
+    "type": "birria",
+    "intensity": 0.81,
+    "openingHours": null,
+    "osm": "n13956256645"
+  },
+  {
+    "id": "taco_533",
+    "name": "Taquería El Pastorcito Suzo",
+    "lat": 19.396389,
+    "lng": -99.192891,
+    "type": "pastor",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n13956256646"
+  },
+  {
+    "id": "taco_534",
+    "name": "Carnitas Werosd",
+    "lat": 19.3961,
+    "lng": -99.192907,
+    "type": "carnitas",
+    "intensity": 0.76,
+    "openingHours": null,
+    "osm": "n13956256648"
+  },
+  {
+    "id": "taco_535",
+    "name": "Los Clásicos Tacos A La Plancha",
+    "lat": 19.395661,
+    "lng": -99.193664,
+    "type": "fast_food",
+    "intensity": 0.68,
+    "openingHours": null,
+    "osm": "n13956256654"
+  },
+  {
+    "id": "taco_536",
+    "name": "Porky's Tacos Y Gorditas",
+    "lat": 19.395262,
+    "lng": -99.194188,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n13956256669"
+  },
+  {
+    "id": "taco_537",
+    "name": "Mixiote Estilo Hidalgo",
+    "lat": 19.406309,
+    "lng": -99.169417,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "n13986180701"
+  },
+  {
+    "id": "taco_538",
+    "name": "Caracol de Mar",
+    "lat": 19.408975,
+    "lng": -99.173509,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": "Mo-Sa 13:00-22:00; Su 13:00-19:00",
+    "osm": "n13994161401"
+  },
+  {
+    "id": "taco_539",
+    "name": "El Habanerito",
+    "lat": 19.416189,
+    "lng": -99.15531,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": "Mo-Sa 09:30-21:30; Su 10:00-17:30",
+    "osm": "n13994166401"
+  },
+  {
+    "id": "taco_540",
+    "name": "Los Pacientes",
+    "lat": 19.419185,
+    "lng": -99.159989,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "n13999177206"
+  },
+  {
+    "id": "taco_541",
+    "name": "Pozoloería Mi Lupita",
+    "lat": 19.422009,
+    "lng": -99.106819,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "n14072236564"
+  },
+  {
+    "id": "taco_542",
+    "name": "Ricos Tacos Toluca",
+    "lat": 19.429253,
+    "lng": -99.142481,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "n14080898901"
+  },
+  {
+    "id": "taco_543",
+    "name": "Cocina Verónica",
+    "lat": 19.436985,
+    "lng": -99.13541,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": "Mo-Sa 08:30-17:30",
+    "osm": "n14132210501"
+  },
+  {
+    "id": "taco_544",
+    "name": "Tacos Bueno Día",
+    "lat": 19.435974,
+    "lng": -99.131763,
+    "type": "fast_food",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "n14132235402"
+  },
+  {
+    "id": "taco_545",
+    "name": "Tacos y Mariscos Los Sinaloenses",
+    "lat": 19.403444,
+    "lng": -99.165433,
+    "type": "pescado",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n14133602756"
+  },
+  {
+    "id": "taco_546",
+    "name": "Los Parados",
+    "lat": 19.406115,
+    "lng": -99.161244,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n14133624943"
+  },
+  {
+    "id": "taco_547",
+    "name": "Don Frank",
+    "lat": 19.404197,
+    "lng": -99.160559,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "n14145611863"
+  },
+  {
+    "id": "taco_548",
+    "name": "Comida Corrida",
+    "lat": 19.437313,
+    "lng": -99.136491,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "n14146016952"
+  },
+  {
+    "id": "taco_549",
+    "name": "El Pepón Mariscos",
+    "lat": 19.437323,
+    "lng": -99.137863,
+    "type": "pescado",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "n14146016955"
+  },
+  {
+    "id": "taco_550",
+    "name": "Lonchería de Lupita",
+    "lat": 19.437301,
+    "lng": -99.139162,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "n14146016958"
+  },
+  {
+    "id": "taco_551",
+    "name": "Tacos Versalles",
+    "lat": 19.43171,
+    "lng": -99.15404,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "n14152733701"
+  },
+  {
+    "id": "taco_552",
+    "name": "Toks",
+    "lat": 19.374931,
+    "lng": -99.162719,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "w128463439"
+  },
+  {
+    "id": "taco_553",
+    "name": "Toks",
+    "lat": 19.373653,
+    "lng": -99.122827,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": "Mo-Su 7:00-00:00",
+    "osm": "w406481546"
+  },
+  {
+    "id": "taco_554",
+    "name": "Sanborns",
+    "lat": 19.368616,
+    "lng": -99.155836,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "w416153877"
+  },
+  {
+    "id": "taco_555",
+    "name": "La Casa de Toño",
+    "lat": 19.403193,
+    "lng": -99.155942,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "w526124619"
+  },
+  {
+    "id": "taco_556",
+    "name": "Taquería Copacabana",
+    "lat": 19.368113,
+    "lng": -99.155846,
+    "type": "mexican",
+    "intensity": 0.65,
+    "openingHours": null,
+    "osm": "w526165573"
+  },
+  {
+    "id": "taco_557",
+    "name": "Vips",
+    "lat": 19.383827,
+    "lng": -99.148444,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "w526322314"
+  },
+  {
+    "id": "taco_558",
+    "name": "El Chalet",
+    "lat": 19.400982,
+    "lng": -99.161969,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "w526550701"
+  },
+  {
+    "id": "taco_559",
+    "name": "El Cazo Napan",
+    "lat": 19.382029,
+    "lng": -99.187145,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "w528263088"
+  },
+  {
+    "id": "taco_560",
+    "name": "Gorditas Zacazonapan",
+    "lat": 19.381751,
+    "lng": -99.187232,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "w528263093"
+  },
+  {
+    "id": "taco_561",
+    "name": "Toks",
+    "lat": 19.360193,
+    "lng": -99.122563,
+    "type": "mexican",
+    "intensity": 0.66,
+    "openingHours": null,
+    "osm": "w568311150"
+  },
+  {
+    "id": "taco_562",
+    "name": "El Carnal",
+    "lat": 19.449688,
+    "lng": -99.113398,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": null,
+    "osm": "w572201691"
+  },
+  {
+    "id": "taco_563",
+    "name": "Las Sillas",
+    "lat": 19.398913,
+    "lng": -99.128384,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "w615042486"
+  },
+  {
+    "id": "taco_564",
+    "name": "Casa Merlos",
+    "lat": 19.404944,
+    "lng": -99.196552,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": "Th-Su 13:00-18:00",
+    "osm": "w667952825"
+  },
+  {
+    "id": "taco_565",
+    "name": "Taquería Revolución",
+    "lat": 19.383011,
+    "lng": -99.186561,
+    "type": "fast_food",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "w671946638"
+  },
+  {
+    "id": "taco_566",
+    "name": "Villa Casona San Pedro de los Pinos",
+    "lat": 19.386312,
+    "lng": -99.186222,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": "Mo-Su 09:00-21:00",
+    "osm": "w674109277"
+  },
+  {
+    "id": "taco_567",
+    "name": "Taquearte",
+    "lat": 19.379998,
+    "lng": -99.177771,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "w674171711"
+  },
+  {
+    "id": "taco_568",
+    "name": "Toks",
+    "lat": 19.374105,
+    "lng": -99.179258,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "w762380909"
+  },
+  {
+    "id": "taco_569",
+    "name": "Taquería Los Molcajetes",
+    "lat": 19.383879,
+    "lng": -99.122163,
+    "type": "fast_food",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "w790803849"
+  },
+  {
+    "id": "taco_570",
+    "name": "Las Cebollas",
+    "lat": 19.382053,
+    "lng": -99.178046,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": null,
+    "osm": "w818119232"
+  },
+  {
+    "id": "taco_571",
+    "name": "Vips",
+    "lat": 19.369818,
+    "lng": -99.192425,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "w820364362"
+  },
+  {
+    "id": "taco_572",
+    "name": "Taquería El Carnal 1",
+    "lat": 19.449462,
+    "lng": -99.112241,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Mo-Su 07:00-15:00",
+    "osm": "w913292931"
+  },
+  {
+    "id": "taco_573",
+    "name": "Tortagos",
+    "lat": 19.439193,
+    "lng": -99.168276,
+    "type": "mexican",
+    "intensity": 0.76,
+    "openingHours": "Mo-Sa 07:00-17:30",
+    "osm": "w930413632"
+  },
+  {
+    "id": "taco_574",
+    "name": "Con Antojo Truck",
+    "lat": 19.452764,
+    "lng": -99.184244,
+    "type": "mexican",
+    "intensity": 0.62,
+    "openingHours": "Mo-Su 09:00-22:00",
+    "osm": "w947115346"
+  },
+  {
+    "id": "taco_575",
+    "name": "Los Canarios",
+    "lat": 19.382224,
+    "lng": -99.175874,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "w1005949484"
+  },
+  {
+    "id": "taco_576",
+    "name": "Chidos y Rifados",
+    "lat": 19.370122,
+    "lng": -99.18036,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "w1192143305"
+  },
+  {
+    "id": "taco_577",
+    "name": "Bisquets Obregón",
+    "lat": 19.394508,
+    "lng": -99.143073,
+    "type": "mexican",
+    "intensity": 0.78,
+    "openingHours": "Mo-Su 07:30-23:00",
+    "osm": "w1192524160"
+  },
+  {
+    "id": "taco_578",
+    "name": "Los Caporales",
+    "lat": 19.381095,
+    "lng": -99.188023,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": null,
+    "osm": "w1192762463"
+  },
+  {
+    "id": "taco_579",
+    "name": "Los Fondues",
+    "lat": 19.372773,
+    "lng": -99.179927,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "w1193257102"
+  },
+  {
+    "id": "taco_580",
+    "name": "Taquería Zitzipandácuri",
+    "lat": 19.370617,
+    "lng": -99.188019,
+    "type": "mexican",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "w1197603983"
+  },
+  {
+    "id": "taco_581",
+    "name": "El Fogoncito (San José Insurgentes)",
+    "lat": 19.370155,
+    "lng": -99.185976,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "w1197605748"
+  },
+  {
+    "id": "taco_582",
+    "name": "El Charco de las Ranas",
+    "lat": 19.370198,
+    "lng": -99.184832,
+    "type": "mexican",
+    "intensity": 0.75,
+    "openingHours": null,
+    "osm": "w1197626941"
+  },
+  {
+    "id": "taco_583",
+    "name": "La Cotorrita",
+    "lat": 19.368308,
+    "lng": -99.182991,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": null,
+    "osm": "w1197644760"
+  },
+  {
+    "id": "taco_584",
+    "name": "El Rabanito",
+    "lat": 19.363491,
+    "lng": -99.184752,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": null,
+    "osm": "w1197651857"
+  },
+  {
+    "id": "taco_585",
+    "name": "Olga's food",
+    "lat": 19.45367,
+    "lng": -99.171871,
+    "type": "mexican",
+    "intensity": 0.59,
+    "openingHours": null,
+    "osm": "w1275412320"
+  },
+  {
+    "id": "taco_586",
+    "name": "Tacos Manuel",
+    "lat": 19.422791,
+    "lng": -99.171909,
+    "type": "fast_food",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "w1327288727"
+  },
+  {
+    "id": "taco_587",
+    "name": "Birria El Paisa",
+    "lat": 19.422307,
+    "lng": -99.173619,
+    "type": "birria",
+    "intensity": 0.86,
+    "openingHours": null,
+    "osm": "w1327435079"
+  },
+  {
+    "id": "taco_588",
+    "name": "La Soledad",
+    "lat": 19.421828,
+    "lng": -99.174452,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "w1327435080"
+  },
+  {
+    "id": "taco_589",
+    "name": "Súper Tortas Gigantes",
+    "lat": 19.42307,
+    "lng": -99.173843,
+    "type": "fast_food",
+    "intensity": 0.69,
+    "openingHours": null,
+    "osm": "w1327654128"
+  },
+  {
+    "id": "taco_590",
+    "name": "Tacos de Guisado Fabiruchis",
+    "lat": 19.42312,
+    "lng": -99.173866,
+    "type": "guisados",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "w1327654130"
+  },
+  {
+    "id": "taco_591",
+    "name": "Tortas El Capricho",
+    "lat": 19.375518,
+    "lng": -99.1845,
+    "type": "mexican",
+    "intensity": 0.61,
+    "openingHours": null,
+    "osm": "w1361866232"
+  },
+  {
+    "id": "taco_592",
+    "name": "Sanborns Cafe",
+    "lat": 19.372762,
+    "lng": -99.175881,
+    "type": "mexican",
+    "intensity": 0.77,
+    "openingHours": "Mo-Su 07:00-22:00",
+    "osm": "w1364212735"
+  },
+  {
+    "id": "taco_593",
+    "name": "Marisqueria Del Valle",
+    "lat": 19.365605,
+    "lng": -99.177229,
+    "type": "mexican",
+    "intensity": 0.6,
+    "openingHours": null,
+    "osm": "w1375991777"
+  },
+  {
+    "id": "taco_594",
+    "name": "La Casa de Toño",
+    "lat": 19.425424,
+    "lng": -99.164529,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "Mo-Su 08:00-23:00",
+    "osm": "w1376935106"
+  },
+  {
+    "id": "taco_595",
+    "name": "Tortas Wendy's",
+    "lat": 19.423231,
+    "lng": -99.171262,
+    "type": "fast_food",
+    "intensity": 0.78,
+    "openingHours": null,
+    "osm": "w1384478917"
+  },
+  {
+    "id": "taco_596",
+    "name": "Las costillas de la Condesa",
+    "lat": 19.415838,
+    "lng": -99.177172,
+    "type": "mexican",
+    "intensity": 0.74,
+    "openingHours": null,
+    "osm": "w1420617270"
+  },
+  {
+    "id": "taco_597",
+    "name": "El Farolito",
+    "lat": 19.409127,
+    "lng": -99.178176,
+    "type": "mexican",
+    "intensity": 0.69,
+    "openingHours": "Mo-Th 09:00-01:00; Fr-Sa 09:00-03:00; Su 09:00-01:00",
+    "osm": "w1420911040"
+  },
+  {
+    "id": "taco_598",
+    "name": "Vips",
+    "lat": 19.40402,
+    "lng": -99.169469,
+    "type": "mexican",
+    "intensity": 0.73,
+    "openingHours": null,
+    "osm": "w1421186035"
+  },
+  {
+    "id": "taco_599",
+    "name": "Vips",
+    "lat": 19.436326,
+    "lng": -99.157564,
+    "type": "mexican",
+    "intensity": 0.72,
+    "openingHours": null,
+    "osm": "w1427411237"
+  },
+  {
+    "id": "taco_600",
+    "name": "Oaxaquita",
+    "lat": 19.445442,
+    "lng": -99.142551,
+    "type": "mexican",
+    "intensity": 0.71,
+    "openingHours": "Th-Su 12:00-18:00",
+    "osm": "w1429359464"
+  },
+  {
+    "id": "taco_601",
+    "name": "Taquería El Papá de Los Naranjitos",
+    "lat": 19.38996,
+    "lng": -99.149818,
+    "type": "fast_food",
+    "intensity": 0.64,
+    "openingHours": null,
+    "osm": "w1443394970"
+  },
+  {
+    "id": "taco_602",
+    "name": "El Taquito de Balbuena",
+    "lat": 19.422242,
+    "lng": -99.107179,
+    "type": "mexican",
+    "intensity": 0.63,
+    "openingHours": null,
+    "osm": "w1547147501"
+  },
+  {
+    "id": "taco_603",
+    "name": "Los Chilaquiles de Balbuena",
+    "lat": 19.420653,
+    "lng": -99.106865,
+    "type": "mexican",
+    "intensity": 0.7,
+    "openingHours": null,
+    "osm": "w1552101322"
+  }
+]

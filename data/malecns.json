@@ -1,0 +1,29 @@
+{
+  "source": "MaleCNS v0.9 (male-cns:v0.9), Lee lab brain-and-nerve-cord fly connectome, CC-BY",
+  "total_neurons": 165114,
+  "populations": {
+    "olfactory_receptor": 2635,
+    "antennal_lobe_local": 420,
+    "antennal_lobe_projection": 697,
+    "antennal_lobe_other": 38,
+    "kenyon_cell": 4064,
+    "dopaminergic": 340,
+    "mbon": 97,
+    "descending": 1321,
+    "ascending": 2240,
+    "motor": 879,
+    "vnc_intrinsic": 13137,
+    "optic": 99138,
+    "central_brain_rest": 26507,
+    "sensory_other": 12820,
+    "other": 781
+  },
+  "kenyon_by_lobule": {
+    "other": 2,
+    "KCapbp": 695,
+    "KCab": 1810,
+    "KCg": 1557
+  },
+  "wing_steering_motor": 23,
+  "glomeruli": 57
+}

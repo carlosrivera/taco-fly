@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Taco Fly 🪰 — a fruit fly navigates CDMX by smell</title>
+  <link rel="stylesheet" href="/node_modules/maplibre-gl/dist/maplibre-gl.css" />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <div class="banner">TACO FLY // A FRUIT FLY. A CITY. SIX HUNDRED TAQUERÍAS. ZERO DIRECTIONS. // UNCLASSIFIED BECAUSE, HONESTLY, WHO WOULD</div>
+
+  <div id="map"></div>
+
+  <header class="hud hud-top">
+    <div class="brand">
+      <span class="brand-title">TACO<span>·</span>FLY</span>
+      <span class="brand-sub">¿dónde comería una mosca en cdmx?</span>
+    </div>
+    <div class="controls">
+      <div id="controller" class="controller-select">
+        <span class="ctl-label">CONTROLLER</span>
+        <button data-ctl="procedural" class="on">DUMB FLY</button>
+        <button data-ctl="neural">NEURAL FLY</button>
+        <button data-ctl="malecns">MALECNS</button>
+      </div>
+      <button id="compare">COMPARE</button>
+      <button id="pick-drop">PICK DROP POINT</button>
+      <button id="release" class="release">RELEASE FLY ▸</button>
+      <div id="speed" class="speed hidden">
+        <span class="speed-label">SPEED</span>
+        <button data-speed="1" class="on">1×</button>
+        <button data-speed="4">4×</button>
+        <button data-speed="16">16×</button>
+        <button data-speed="64">64×</button>
+      </div>
+      <button id="reset" class="ghost hidden">RESET</button>
+    </div>
+  </header>
+
+  <aside id="feed" class="hud feed hidden"></aside>
+
+  <div id="brain" class="hud brain hidden">
+    <div class="brain-title">BRAIN ACTIVITY · MALECNS v0.9 · <span id="brain-count"></span> CH</div>
+    <canvas id="brain-canvas" width="260" height="104"></canvas>
+    <div id="brain-lineage" class="brain-lineage">LINEAGE gen 0 · 0 tacos inherited</div>
+    <div class="brain-note">population activity · real counts, connectome wiring</div>
+    <button id="forget-lineage">FORGET LINEAGE</button>
+  </div>
+
+  <div id="compare-panel" class="hud compare-panel hidden">
+    <div class="compare-head">
+      <span>CONTROLLER COMPARISON</span>
+      <button id="compare-close">✕</button>
+    </div>
+    <div id="compare-status" class="compare-status">standby</div>
+    <table class="compare-table">
+      <thead><tr><th>CONTROLLER</th><th>TACOS</th><th>DIST KM</th><th>OUTCOME</th></tr></thead>
+      <tbody id="compare-body"></tbody>
+    </table>
+    <div class="compare-note">same drop point &amp; seed · 40 sim-min each · no llm, no shortcuts</div>
+  </div>
+
+  <footer class="hud hud-bottom">
+    <div class="stat"><span class="k">STATUS</span><span class="v" id="t-status">STANDBY</span></div>
+    <div class="stat"><span class="k">NEURONS</span><span class="v" id="t-neurons">1 <em>(procedural)</em></span></div>
+    <div class="stat"><span class="k">ENERGY</span><span class="v" id="t-energy">—</span></div>
+    <div class="stat"><span class="k">SIM TIME</span><span class="v" id="t-time">00:00:00</span></div>
+    <div class="stat"><span class="k">DISTANCE</span><span class="v" id="t-dist">0.00 km</span></div>
+    <div class="stat"><span class="k">TACOS</span><span class="v" id="t-disc">0</span></div>
+    <div class="stat"><span class="k">SMELL</span><span class="v" id="t-smell">0.000</span></div>
+    <div class="stat"><span class="k">NEIGHBORHOOD</span><span class="v" id="t-hood">—</span></div>
+    <div class="stat"><span class="k">NEAREST TACO</span><span class="v" id="t-odor">—</span></div>
+    <div class="stat"><span class="k">WIND VEC</span><span class="v">→ 2.1 m/s</span></div>
+    <div class="spacer"></div>
+    <button id="toggle-map">HIDE MAP</button>
+    <button id="export">EXPORT PNG</button>
+  </footer>
+
+  <div id="coord-readout" class="coord-readout">19.4120° N · 99.1620° W · UTM 14Q</div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

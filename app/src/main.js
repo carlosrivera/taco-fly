@@ -116,7 +116,7 @@ map.on("load", () => {
     id: "fly-dot", type: "circle", source: "fly",
     paint: {
       "circle-radius": 7,
-      "circle-color": ["match", ["get", "dead"], true, "#ff4d4d", "#7dff5a"],
+      "circle-color": ["match", ["get", "dead"], "yes", "#ff4d4d", "#7dff5a"],
       "circle-stroke-width": 2,
       "circle-stroke-color": "#0a1206",
     },
@@ -490,7 +490,7 @@ function updateMapSources() {
   map.getSource("trail")?.setData({ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: trailCoords } });
   map.getSource("fly")?.setData({
     type: "FeatureCollection",
-    features: [{ type: "Feature", properties: { dead: !fly.alive }, geometry: { type: "Point", coordinates: [fly.lng, fly.lat] } }],
+    features: [{ type: "Feature", properties: { dead: fly.alive ? "no" : "yes" }, geometry: { type: "Point", coordinates: [fly.lng, fly.lat] } }],
   });
 }
 

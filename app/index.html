@@ -73,9 +73,19 @@
     <div class="stat"><span class="k">NEAREST TACO</span><span class="v" id="t-odor">—</span></div>
     <div class="stat"><span class="k">WIND VEC</span><span class="v">→ 2.1 m/s</span></div>
     <div class="spacer"></div>
+    <button id="toggle-tacos">TAQUERÍAS</button>
     <button id="toggle-map">HIDE MAP</button>
     <button id="export">EXPORT PNG</button>
   </footer>
+
+  <aside id="taco-list" class="hud taco-list hidden">
+    <div class="taco-head">
+      <span>TAQUERÍA INDEX</span>
+      <span id="taco-count" class="taco-count"></span>
+    </div>
+    <input id="taco-search" class="taco-search" type="text" placeholder="filter by name or type…" autocomplete="off" />
+    <div id="taco-rows" class="taco-rows"></div>
+  </aside>
 
   <div id="coord-readout" class="coord-readout">19.4120° N · 99.1620° W · UTM 14Q</div>
 

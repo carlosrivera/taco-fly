@@ -380,6 +380,48 @@ $("forget-lineage")?.addEventListener("click", () => {
   updateLineageBadge();
 });
 
+// ---------- taquería index ----------
+const tacoListEl = $("taco-list");
+const tacoRowsEl = $("taco-rows");
+let tacoListBuilt = false;
+
+$("toggle-tacos").addEventListener("click", () => {
+  const show = tacoListEl.classList.toggle("hidden");
+  document.body.classList.toggle("taco-list-open", !show);
+  if (!show) buildTacoList();
+});
+
+$("taco-search").addEventListener("input", (e) => renderTacoRows(e.target.value));
+
+function buildTacoList() {
+  if (tacoListBuilt) { renderTacoRows($("taco-search").value); return; }
+  tacoListBuilt = true;
+  renderTacoRows($("taco-search").value);
+}
+
+function renderTacoRows(filter = "") {
+  const f = filter.trim().toLowerCase();
+  const visitedSet = new Set(fly ? fly.visited : []);
+  const rows = taquerias
+    .filter((t) => !f || t.name.toLowerCase().includes(f) || t.type.toLowerCase().includes(f))
+    .map((t) => {
+      const visited = visitedSet.has(t.id);
+      return `<div class="taco-row${visited ? " visited" : ""}" data-lat="${t.lat}" data-lng="${t.lng}">
+        <span class="taco-row-name">${visited ? "✓ " : ""}${t.name}</span>
+        <span class="taco-row-meta">${t.type} · ${t.intensity.toFixed(2)}</span>
+      </div>`;
+    }).join("");
+  tacoRowsEl.innerHTML = rows || `<div class="taco-row-empty">no matches</div>`;
+  $("taco-count").textContent = `${taquerias.length} total · ${visitedSet.size} visited`;
+}
+
+tacoRowsEl.addEventListener("click", (e) => {
+  const row = e.target.closest(".taco-row");
+  if (!row) return;
+  cameraFollow = false; // don't yank the view back
+  map.flyTo({ center: [+row.dataset.lng, +row.dataset.lat], zoom: Math.max(map.getZoom(), 15), duration: 1200 });
+});
+
 // ---------- brain activity visualization ----------
 const brainCanvas = $("brain-canvas");
 const brainCtx = brainCanvas.getContext("2d");
@@ -496,6 +538,7 @@ function updateMapSources() {
 
 function onDiscovery(ev) {
   const t = ev.taqueria;
+  if (tacoListBuilt && !tacoListEl.classList.contains("hidden")) renderTacoRows($("taco-search").value);
   visitedFeatures.push({ type: "Feature", properties: {}, geometry: { type: "Point", coordinates: [t.lng, t.lat] } });
   map.getSource("visited")?.setData({ type: "FeatureCollection", features: visitedFeatures });
 

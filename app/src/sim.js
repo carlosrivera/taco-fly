@@ -131,6 +131,7 @@ export function createFly(seed, taquerias, drop = null) {
     turnMomentum: 0,
     runTimer: 0,
     visited: [],
+    visitedSet: new Set(),
     distance: 0,
     refactoryUntil: 0,
     lastEvent: null,
@@ -298,15 +299,17 @@ export function step(fly, smell, dt, wind, controller, net) {
     return s;
   }
 
-  // discovery check
+  // discovery check — every 5th tick is plenty (24 m radius, ~15 m/tick)
   fly.lastEvent = null;
-  if (fly.age >= fly.refactoryUntil) {
+  fly.tickCount = (fly.tickCount || 0) + 1;
+  if (fly.age >= fly.refactoryUntil && fly.tickCount % 5 === 0) {
     for (const t of fly.taquerias) {
-      if (fly.visited.includes(t.id)) continue;
+      if (fly.visitedSet.has(t.id)) continue;
       const dx = (fly.lng - t.lng) * M_PER_DEG_LNG;
       const dy = (fly.lat - t.lat) * M_PER_DEG_LAT;
       if (dx * dx + dy * dy < 24 * 24) {
         fly.visited.push(t.id);
+        fly.visitedSet.add(t.id);
         fly.refactoryUntil = fly.age + 6; // land, eat, ignore nearby clones
         fly.energy = Math.min(1, fly.energy + 0.4); // a taco is a meal
         fly.rewardPulse = 1; // dopamine: this smell pattern led to food

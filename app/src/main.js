@@ -184,6 +184,7 @@ function releaseFly() {
   trailCoords = [[fly.lng, fly.lat]];
   visitedFeatures = [];
   deathAnnounced = false;
+  lastMapUpdate = 0;
   running = true;
   cameraFollow = true;
   setPicking(false);
@@ -519,13 +520,16 @@ let simAccum = 0;
 let deathAnnounced = false;
 let lastUiUpdate = 0;
 let lastBrainUpdate = 0;
+let lastMapUpdate = 0;
 
 function frame(now) {
   const realDt = Math.min(0.1, (now - lastT) / 1000);
   lastT = now;
 
   if (running && fly) {
-    const dt = 0.08; // fixed sim timestep, seconds
+    // at high tempo, double the timestep: halves the per-second compute
+    // (dynamics are rate-scaled by dt, so behavior is preserved)
+    const dt = speed >= 16 ? 0.16 : 0.08;
     simAccum += realDt * speed;
     const simSteps = Math.min(200, Math.floor(simAccum / dt));
     simAccum -= simSteps * dt;
@@ -558,9 +562,15 @@ function frame(now) {
       if (trailCoords.length > 20000) trailCoords.shift();
     }
 
-    updateMapSources();
-    if (now - lastUiUpdate > 250) updateTelemetry(), (lastUiUpdate = now);
-    if (now - lastBrainUpdate > 90 && controller === "malecns") drawBrain(), (lastBrainUpdate = now); // ~11 fps: alive, not jittery
+    // skip all per-frame DOM/GeoJSON work on frames where nothing moved
+    if (simSteps > 0) {
+      if (now - lastMapUpdate > 80) {
+        updateMapSources();
+        lastMapUpdate = now;
+      }
+      if (now - lastUiUpdate > 250) updateTelemetry(), (lastUiUpdate = now);
+      if (now - lastBrainUpdate > 90 && controller === "malecns") drawBrain(), (lastBrainUpdate = now); // ~11 fps: alive, not jittery
+    }
     if (cameraFollow && simSteps > 0) smoothFollow(realDt);
   }
   requestAnimationFrame(frame);

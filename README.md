@@ -34,6 +34,11 @@ recurrence, and all weights (the connectome gives connectivity, not
 synaptic efficacies). DAN-gated KC→MBON plasticity is the biological
 learning rule (appetitive conditioning, σ PAM/PPL1).
 
+## Deploy
+
+Live at **https://carlosrivera.github.io/taco-fly/** — every push to `main`
+rebuilds and deploys via GitHub Actions. Fully static; nothing to run.
+
 ## Data pipeline
 
 ```bash

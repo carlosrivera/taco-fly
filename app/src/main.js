@@ -122,6 +122,20 @@ map.on("load", () => {
     },
   });
 
+  // hover-pulse ring (taquería index row hover)
+  map.addSource("pulse", { type: "geojson", data: EMPTY_COLL });
+  map.addLayer({
+    id: "pulse-ring", type: "circle", source: "pulse",
+    paint: {
+      "circle-radius": ["coalesce", ["feature-state", "radius"], 0],
+      "circle-color": "rgba(255, 210, 63, 0)",
+      "circle-stroke-color": "#ffd23f",
+      "circle-stroke-width": 2.5,
+      "circle-opacity": 0,
+      "circle-stroke-opacity": ["coalesce", ["feature-state", "opacity"], 0],
+    },
+  });
+
   map.addSource("drop", { type: "geojson", data: EMPTY_COLL });
   map.addLayer({
     id: "drop-marker", type: "circle", source: "drop",
@@ -385,11 +399,14 @@ const tacoListEl = $("taco-list");
 const tacoRowsEl = $("taco-rows");
 let tacoListBuilt = false;
 
-$("toggle-tacos").addEventListener("click", () => {
-  const show = tacoListEl.classList.toggle("hidden");
-  document.body.classList.toggle("taco-list-open", !show);
-  if (!show) buildTacoList();
-});
+let tacoListOpen = false;
+function setTacoList(open) {
+  tacoListOpen = open;
+  tacoListEl.classList.toggle("hidden", !open);
+  if (open) buildTacoList();
+  else stopPulse();
+}
+$("toggle-tacos").addEventListener("click", () => setTacoList(!tacoListOpen));
 
 $("taco-search").addEventListener("input", (e) => renderTacoRows(e.target.value));
 
@@ -406,7 +423,7 @@ function renderTacoRows(filter = "") {
     .filter((t) => !f || t.name.toLowerCase().includes(f) || t.type.toLowerCase().includes(f))
     .map((t) => {
       const visited = visitedSet.has(t.id);
-      return `<div class="taco-row${visited ? " visited" : ""}" data-lat="${t.lat}" data-lng="${t.lng}">
+      return `<div class="taco-row${visited ? " visited" : ""}" data-id="${t.id}" data-lat="${t.lat}" data-lng="${t.lng}">
         <span class="taco-row-name">${visited ? "✓ " : ""}${t.name}</span>
         <span class="taco-row-meta">${t.type} · ${t.intensity.toFixed(2)}</span>
       </div>`;
@@ -414,6 +431,34 @@ function renderTacoRows(filter = "") {
   tacoRowsEl.innerHTML = rows || `<div class="taco-row-empty">no matches</div>`;
   $("taco-count").textContent = `${taquerias.length} total · ${visitedSet.size} visited`;
 }
+
+// hovering a row pulses that taquería's dot on the map
+let pulseRAF = null;
+function startPulse(t) {
+  stopPulse();
+  map.getSource("pulse").setData({
+    type: "FeatureCollection",
+    features: [{ type: "Feature", id: 1, properties: {}, geometry: { type: "Point", coordinates: [t.lng, t.lat] } }],
+  });
+  const start = performance.now();
+  const anim = (now) => {
+    const phase = ((now - start) % 900) / 900;
+    map.setFeatureState({ source: "pulse", id: 1 }, { radius: 5 + phase * 30, opacity: 1 - phase });
+    pulseRAF = requestAnimationFrame(anim);
+  };
+  pulseRAF = requestAnimationFrame(anim);
+}
+function stopPulse() {
+  if (pulseRAF) { cancelAnimationFrame(pulseRAF); pulseRAF = null; }
+  if (map.getLayer("pulse-ring")) map.setFeatureState({ source: "pulse", id: 1 }, { opacity: 0 });
+}
+tacoRowsEl.addEventListener("mouseover", (e) => {
+  const row = e.target.closest(".taco-row");
+  if (!row || !row.dataset.id) return;
+  const t = taquerias.find((x) => x.id === row.dataset.id);
+  if (t) startPulse(t);
+});
+tacoRowsEl.addEventListener("mouseleave", stopPulse);
 
 tacoRowsEl.addEventListener("click", (e) => {
   const row = e.target.closest(".taco-row");

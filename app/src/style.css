@@ -145,11 +145,14 @@ button:hover { background: #182230; color: var(--ink-bright); }
 /* ---------- event feed → SIGACT log ---------- */
 .feed {
   top: 96px; right: 16px; width: 316px;
-  max-height: 48vh; overflow: hidden;
+  max-height: 48vh; overflow-y: auto;
+  scrollbar-width: thin; scrollbar-color: var(--border) transparent;
   display: flex; flex-direction: column; gap: 1px;
   background: var(--surface);
   border: 1px solid var(--border);
 }
+.feed::-webkit-scrollbar { width: 6px; }
+.feed::-webkit-scrollbar-thumb { background: var(--border); }
 .event {
   background: transparent;
   border-left: 2px solid var(--taco);
@@ -256,7 +259,7 @@ button:hover { background: #182230; color: var(--ink-bright); }
   .brand-sub { font-size: 8px; letter-spacing: 0.12em; }
   .controls button { font-size: 9px; letter-spacing: 0.1em; padding: 8px 8px; }
   .release { padding: 8px 12px; font-size: 10px; }
-  .feed { right: 8px; width: calc(100% - 16px); max-height: 22vh; }
+  .feed { right: 8px; width: calc(100% - 16px); max-height: 26vh; overflow-y: auto; }
   .brain { top: 118px; }
   .stat { flex: 1 1 44%; padding: 5px 10px; }
   .stat .v { font-size: 13px; }

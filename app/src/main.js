@@ -559,7 +559,7 @@ function addFeedEvent(head, name, meta, kind = "obj") {
     <div class="meta">${meta}</div>`;
   const feed = $("feed");
   feed.prepend(el);
-  while (feed.children.length > 8) feed.lastChild.remove();
+  while (feed.children.length > 60) feed.lastChild.remove(); // keep scrollable history
 }
 
 let smellEma = 0;

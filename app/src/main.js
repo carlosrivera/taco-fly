@@ -22,7 +22,8 @@ const map = new MaplibreMap({
   zoom: 13.2,
   pitch: 0,
   attributionControl: true,
-  preserveDrawingBuffer: true, // needed for PNG export
+  // v6 moved GL context flags here; keep the drawing buffer readable for PNG export
+  canvasContextAttributes: { preserveDrawingBuffer: true },
   style: {
     version: 8,
     sources: {
@@ -275,35 +276,48 @@ $("toggle-map").addEventListener("click", (e) => {
 $("export").addEventListener("click", exportPng);
 
 function exportPng() {
-  const src = map.getCanvas();
-  const out = document.createElement("canvas");
-  out.width = src.width;
-  out.height = src.height;
-  const ctx = out.getContext("2d");
-  ctx.drawImage(src, 0, 0);
+  try {
+    const src = map.getCanvas();
+    const out = document.createElement("canvas");
+    out.width = src.width;
+    out.height = src.height;
+    const ctx = out.getContext("2d");
+    ctx.drawImage(src, 0, 0);
 
-  // caption block
-  const pad = Math.round(out.height * 0.035);
-  const fs = Math.max(14, Math.round(out.height * 0.022));
-  ctx.font = `700 ${fs}px ui-monospace, Menlo, monospace`;
-  ctx.fillStyle = "#ffd23f";
-  const disc = fly ? fly.visited.length : 0;
-  const km = fly ? (fly.distance / 1000).toFixed(1) : "0.0";
-  const lines = [
-    `TACO FLY · CDMX`,
-    `${disc} taquerías · ${km} km · seed ${SEED}`,
-  ];
-  lines.forEach((line, i) => {
-    const y = out.height - pad - (lines.length - 1 - i) * fs * 1.5;
-    ctx.shadowColor = "rgba(0,0,0,0.9)";
-    ctx.shadowBlur = 8;
-    ctx.fillText(line, pad, y);
-  });
+    // caption block
+    const pad = Math.round(out.height * 0.035);
+    const fs = Math.max(14, Math.round(out.height * 0.022));
+    ctx.font = `700 ${fs}px ui-monospace, Menlo, monospace`;
+    ctx.fillStyle = "#ffd23f";
+    const disc = fly ? fly.visited.length : 0;
+    const km = fly ? (fly.distance / 1000).toFixed(1) : "0.0";
+    const ctl = { procedural: "CHEMO", neural: "RNN-53", malecns: "MALECNS" }[controller] ?? controller;
+    const lines = [
+      `TACO FLY · CDMX`,
+      `${disc} taquerías · ${km} km · ${ctl} · seed ${SEED}`,
+    ];
+    lines.forEach((line, i) => {
+      const y = out.height - pad - (lines.length - 1 - i) * fs * 1.5;
+      ctx.shadowColor = "rgba(0,0,0,0.9)";
+      ctx.shadowBlur = 8;
+      ctx.fillText(line, pad, y);
+    });
 
-  const a = document.createElement("a");
-  a.download = `taco-fly-${SEED}-${disc}tacos.png`;
-  a.href = out.toDataURL("image/png");
-  a.click();
+    // Blob + object URL survives big canvases and Safari's data-URL limits
+    out.toBlob((blob) => {
+      if (!blob) { alert("Export failed: could not encode the map canvas."); return; }
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `taco-fly-${SEED}-${disc}tacos.png`;
+      document.body.appendChild(a); // Safari ignores detached anchors
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 5000);
+    }, "image/png");
+  } catch (err) {
+    alert(`Export failed: ${err.message}. If this mentions a tainted canvas, try again after reloading.`);
+  }
 }
 
 // ---------- comparison mode (PRD §16) ----------
